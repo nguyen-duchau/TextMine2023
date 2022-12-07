@@ -1,0 +1,15 @@
+{
+    "Location":0,
+    "Organization":1,
+    "Reference_User":2,
+    "Social_Network":3,
+    "Human":4,
+    "Url":5,
+    "Reference_CS":6,
+    "Reference_CEDEX":7,
+    "Email":8,
+    "Function":9,
+    "Project":10,
+    "Reference_Code_Postal":11,
+    "Phone_Number":12
+}
