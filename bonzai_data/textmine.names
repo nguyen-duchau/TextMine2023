@@ -1,0 +1,7 @@
+Human,Organization,Function,Project,Location,Reference_CEDEX,Reference_CS,Reference_Code_Postal,Phone_Number,Email,Url,Social_Network,Reference_User.
+before: text: expert_length=1 expert_level=1 expert_type=ngram cutoff=0 regex=prefix_%t[0,"^.?.?."].
+before_on_line: text: expert_length=1 expert_level=1 expert_type=ngram cutoff=0 regex=prefix_%t[0,"^.?.?."].
+token:  text: expert_length=1 expert_level=1 expert_type=ngram cutoff=0 regex=prefix_%t[0,"^.?.?."].
+after_on_line:  text: expert_length=1 expert_level=1 expert_type=ngram cutoff=0 regex=prefix_%t[0,"^.?.?."].
+after:  text: expert_length=1 expert_level=1 expert_type=ngram cutoff=0 regex=prefix_%t[0,"^.?.?."].
+line:   continuous.

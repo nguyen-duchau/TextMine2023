@@ -25,7 +25,7 @@
 
 - [x] Responsable de communication: **Nico**
 - [ ] Etat de l'art: **Hugo**
-- [ ] Bonsai Boost: **Nico**
+- [x] Bonzai Boost: **Nico**
 - [ ] BERT-NERT: **Duc**
 - [ ] Canal de communication
 
