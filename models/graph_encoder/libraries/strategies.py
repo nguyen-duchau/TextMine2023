@@ -25,7 +25,7 @@ import re
 import html
 
 from nltk.cluster import KMeansClusterer
-from sentence_transformers import SentenceTransformer
+# from sentence_transformers import SentenceTransformer
 from libraries.log import logger
 from rich.progress import track
 
@@ -135,27 +135,70 @@ def vectorize(data, vectorizer, device='cpu', to_tensor=True):
         output = vectorizer(**data)['last_hidden_state'].squeeze(0)
     return output
 
-def get_offsets_dict(offsets_mapping):
-    output_dict={}
-    counter=-1
-    for i, (start, end) in enumerate(offsets_mapping):
-        if start==0:
-            counter+=1
-            output_dict[counter]=[]
-        output_dict[counter].append(i)
-    return output_dict
+def align_tokens(sentence, label):
+    cursor = 0
+    current_line=0
+    tokens = []
+    label_pos = []
+    label_line = [0]
+    for (start, end) in [(l['begin'], l['end']) for l in label]:
+        if start > cursor+1:
+            for s in sentence[cursor:start].split(' '):
+                if s:
+                    if '\\n' in s:
+                        current_line+=1
+                    tokens.append(s)
+                    label_line.append(current_line)
+        if '\\n' in sentence[start:end]:
+            current_line+=1
+        tokens.append(sentence[start:end])
+        label_line.append(current_line)
+        label_pos.append(len(tokens))
+        cursor = end +1 if sentence[end-1] == ' ' else end
+    label_line.append(label_line[-1])
+    return tokens, label_pos, label_line
 
-def build_graph(embeddings_matrix, edges, distance, entity_pair, label, index, dependency_edges, spacy_tokens, offsets_mapping):
+def get_offsets_dict(offsets_mapping):
+    output_dict = {}
+    counter = -1
+    token_chars = []
+    startend_buffer = [-1,-1]
+    cursor = 0
+    for i, (start, end) in enumerate(offsets_mapping):
+        if start == 0:
+            if startend_buffer[1]>=0:
+                token_chars.append(startend_buffer)
+                startend_buffer = [-1,-1]
+            counter += 1
+            output_dict[counter] = []
+            startend_buffer[0]=cursor+start
+        output_dict[counter].append(i)
+        cursor+=(end-start)
+        startend_buffer[1]=cursor
+    token_chars.append(startend_buffer)
+    return output_dict, token_chars
+
+def build_graph(sentence, embeddings_matrix, distance, label, index, offsets_mapping, token_line, token_pos, label2id):
     
-    nb_nodes = embeddings_matrix.shape[0]
     edges = []
+    offset_dict, token_chars = get_offsets_dict(offsets_mapping.squeeze(0))
+    embeddings = th.tensor([])
+    for token, mapping in offset_dict.items():
+        add_emb = th.mean(embeddings_matrix[mapping,:].unsqueeze(0), dim=1)
+        embeddings = th.concat([embeddings, add_emb],dim=0)
+    nb_nodes = embeddings.shape[0]
+    pos_encoder = PositionalEncoding(500, embeddings.shape[-1])
+    while(len(token_line)< embeddings.shape[0]):
+        token_line.append(token_line[-1])
+    pos_encodings = pos_encoder(token_line)
+    embeddings_matrix = embeddings + pos_encodings
     for node in range(nb_nodes):
         for dist in range(-distance, distance+1):
             edges.append((node, min(max(node+dist, 0),nb_nodes-1)))
     edges = list(set(edges))
     edge_index = th.tensor(list(zip(*edges)))
-
-    return Data(embedding=embeddings_matrix, edge_index=edge_index, num_nodes=nb_nodes, label=label, idx=index)
+    label = [label2id[l['label']] for l in label]
+    return Data(embedding=embeddings_matrix, edge_index=edge_index, num_nodes=nb_nodes, label=label, label_pos=token_pos, idx=index)
 
 def load_vectorizer(path2vectorizer, model_name=None):
     if path.isfile(path2vectorizer):

@@ -3,6 +3,8 @@ import torch as th
 import torch.nn.functional as F
 import torch.nn as nn 
 from torch_geometric.nn import GCNConv, global_mean_pool
+import pytorch_lightning as pl
+from torchmetrics import F1Score
 
 import operator as op
 import itertools as it, functools as ft 
@@ -126,3 +128,49 @@ class SimpleGCN(th.nn.Module):
         x = self.conv2(x, edge_index)
 
         return global_mean_pool(x, data.batch)
+
+class TextMineGCN(pl.LightningModule):
+    def __init__(self, dataset):
+        super().__init__()
+        self.conv1 = GCNConv(dataset.num_node_features, 756)
+        self.conv2 = GCNConv(756, dataset.num_classes)
+        self.criterion = nn.CrossEntropyLoss()
+        self.f1 = F1Score(task="multiclass", num_classes=dataset.num_classes)
+
+    def training_step(self, batch, batch_idx):
+        batch_size = len(batch)
+        label = th.tensor(list(it.chain(*batch.label)), device = self.device)
+        label_pos = list(it.chain(*batch.label_pos))
+        x, edge_index = batch.embedding, batch.edge_index
+        x = self.conv1(x, edge_index)
+        x = F.relu(x)
+        x = F.dropout(x, training=self.training)
+        x = self.conv2(x, edge_index)
+        pred = th.argmax(x, dim=-1)
+        loss = self.criterion(x[label_pos], label)
+        # Logging to TensorBoard by default
+        self.log("train_loss", loss, batch_size=batch_size)
+        return loss
+    
+    def validation_step(self, val_batch, batch_idx):
+        batch_size = len(val_batch)
+        label = th.tensor(list(it.chain(*val_batch.label)), device=self.device)
+        label_pos = list(it.chain(*val_batch.label_pos))
+        x, edge_index = val_batch.embedding, val_batch.edge_index
+        x = self.conv1(x, edge_index)
+        x = F.relu(x)
+        x = F.dropout(x, training=self.training)
+        x = self.conv2(x, edge_index)
+        pred = th.argmax(x, dim=-1)
+        loss = self.criterion(x[label_pos], label)
+        # Logging to TensorBoard by default
+        self.log("val_loss", loss, prog_bar=True, batch_size=batch_size)
+        f1 = self.f1(pred[label_pos], label)
+        self.log('val_f1', f1, prog_bar=True, batch_size=batch_size)
+        return loss
+    
+    def predict(self)
+
+    def configure_optimizers(self):
+        optimizer = th.optim.Adam(self.parameters(), lr=1e-3)
+        return optimizer
