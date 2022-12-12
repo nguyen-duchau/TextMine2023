@@ -27,14 +27,14 @@
 - [x] Responsable de communication: **Nico**
 - [x] Etat de l'art: **Hugo**
 - [ ] GCN: **Hugo**
-- [ ] Bonsai Boost: **Nico**
+- [x] Bonsai Boost: **Nico**
 - [ ] BERT-NERT: **Duc**
   - [x] Camembert-BERT vanilla test
   - [ ] Variation de tokenization
   - [ ] Retrain on a limited class
 - [x] RegExp: **Victor**
 - [ ] QA : **Cyrielle**
-- []
+- [ ] Luke: **Cyrielle**
 - [ ] Canal de communication: Slack
 
 # Result
