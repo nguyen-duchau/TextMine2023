@@ -4,7 +4,7 @@
 
 1. Challenge details: https://github.com/Emvista/Challenge_TextMine_2023
 2. Result deadline: **9/10/2023**
-3. Paper deadline: **13/01/2023**
+3. Paper deadline (2 pages): **13/01/2023**
 4. Result submission: [textmine@emvista.com](mailto:textmine@emvista.com). **3 submissions max**
 5. Paper submission: [https://easychair.org/conferences/?conf=textmine23](https://easychair.org/conferences/?conf=textmine23)
 
@@ -20,12 +20,23 @@
 - Hugo Thomas
 - Cyrielle Mallart
 - Duc Hau Nguyen
+- Victor Klötzer
 
 # TODO:
 
 - [x] Responsable de communication: **Nico**
-- [ ] Etat de l'art: **Hugo**
+- [x] Etat de l'art: **Hugo**
+- [ ] GCN: **Hugo**
 - [ ] Bonsai Boost: **Nico**
 - [ ] BERT-NERT: **Duc**
-- [ ] Canal de communication
+  - [x] Camembert-BERT vanilla test
+  - [ ] Variation de tokenization
+  - [ ] Retrain on a limited class
+- [x] RegExp: **Victor**
+- [ ] QA : **Cyrielle**
+- []
+- [ ] Canal de communication: Slack
+
+# Result
+
 
