@@ -1,7 +1,8 @@
 Human,Organization,Function,Project,Location,Reference_CEDEX,Reference_CS,Reference_Code_Postal,Phone_Number,Email,Url,Social_Network,Reference_User.
-before: text: expert_length=1 expert_level=1 expert_type=ngram cutoff=0 regex=prefix_%t[0,"^.?.?."].
-before_on_line: text: expert_length=1 expert_level=1 expert_type=ngram cutoff=0 regex=prefix_%t[0,"^.?.?."].
-token:  text: expert_length=1 expert_level=1 expert_type=ngram cutoff=0 regex=prefix_%t[0,"^.?.?."].
-after_on_line:  text: expert_length=1 expert_level=1 expert_type=ngram cutoff=0 regex=prefix_%t[0,"^.?.?."].
-after:  text: expert_length=1 expert_level=1 expert_type=ngram cutoff=0 regex=prefix_%t[0,"^.?.?."].
-line:   continuous.
+token: text: expert_length=1 expert_type=ngram cutoff=0 regex=mail_%m[0,"[\w\-\'\.]+@[\w\-]+[.]\w+"] regex=tel_%m[0,"(?:[+]\D?)?\d+(?:\D{0,2}\d){6,12}"] regex=url_%m[0,"[\w\-\.]+[.][a-zA-Z]+"] regex=http_%m[0,"http.*"] regex=handle_%m[0,"%m[0,"^@.*"]"] regex=postcode_%m[0,"\D?\d{5}\D?"] regex=social_%m[0,"Facebook|Linkedin|Instagram|Twitter"].
+token_split: text: expert_length=1 expert_type=ngram cutoff=0 regex=mail_%m[0,"[\w\-\'\.]+@[\w\-]+[.]\w+"] regex=tel_%m[0,"(?:[+]\D?)?\d+(?:\D{0,2}\d){6,12}"] regex=url_%m[0,"[\w\-\.]+[.][a-zA-Z]+"] regex=http_%m[0,"http.*"] regex=handle_%m[0,"%m[0,"^@.*"]"] regex=postcode_%m[0,"\D?\d{5}\D?"] regex=social_%m[0,"Facebook|Linkedin|Instagram|Twitter"].
+before: text: expert_length=1 expert_type=ngram cutoff=0 regex=mail_%m[0,"[\w\-\'\.]+@[\w\-]+[.]\w+"] regex=tel_%m[0,"(?:[+]\D?)?\d+(?:\D{0,2}\d){6,12}"] regex=url_%m[0,"[\w\-\.]+[.][a-zA-Z]+"] regex=http_%m[0,"http.*"] regex=handle_%m[0,"%m[0,"^@.*"]"] regex=postcode_%m[0,"\D?\d{5}\D?"] regex=social_%m[0,"Facebook|Linkedin|Instagram|Twitter"].
+before_on_line: text: expert_length=1 expert_type=ngram cutoff=0 regex=mail_%m[0,"[\w\-\'\.]+@[\w\-]+[.]\w+"] regex=tel_%m[0,"(?:[+]\D?)?\d+(?:\D{0,2}\d){6,12}"] regex=url_%m[0,"[\w\-\.]+[.][a-zA-Z]+"] regex=http_%m[0,"http.*"] regex=handle_%m[0,"%m[0,"^@.*"]"] regex=postcode_%m[0,"\D?\d{5}\D?"] regex=social_%m[0,"Facebook|Linkedin|Instagram|Twitter"].
+after_on_line: text: expert_length=1 expert_type=ngram cutoff=0 regex=mail_%m[0,"[\w\-\'\.]+@[\w\-]+[.]\w+"] regex=tel_%m[0,"(?:[+]\D?)?\d+(?:\D{0,2}\d){6,12}"] regex=url_%m[0,"[\w\-\.]+[.][a-zA-Z]+"] regex=http_%m[0,"http.*"] regex=handle_%m[0,"%m[0,"^@.*"]"] regex=postcode_%m[0,"\D?\d{5}\D?"] regex=social_%m[0,"Facebook|Linkedin|Instagram|Twitter"].
+after: text: expert_length=1 expert_type=ngram cutoff=0 regex=mail_%m[0,"[\w\-\'\.]+@[\w\-]+[.]\w+"] regex=tel_%m[0,"(?:[+]\D?)?\d+(?:\D{0,2}\d){6,12}"] regex=url_%m[0,"[\w\-\.]+[.][a-zA-Z]+"] regex=http_%m[0,"http.*"] regex=handle_%m[0,"%m[0,"^@.*"]"] regex=postcode_%m[0,"\D?\d{5}\D?"] regex=social_%m[0,"Facebook|Linkedin|Instagram|Twitter"].
+line: continuous.
