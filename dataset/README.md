@@ -7,7 +7,16 @@ Le défi proposé se focalise sur la reconnaissance d'entités d'intérêts dans
 
 # Mise à jour
 
-**Jeudi 15 Décembre 2023**
+**30 Décembre 2022**
+
+* Correction de formes incorrectes (qui terminent par \n) dans le JDF
+
+**Mardi 27 Décembre 2022**
+
+* Homogénéisation des formats : les sauts de lignes du JDR sont désormais encodées "\n" plutôt que "\\\r\\\n"
+* Correction d'annotations dans le JDR
+
+**Jeudi 15 Décembre 2022**
 
 * Correction d'une erreur d'offsets dans le JDR
 * Correction d'une annotation incomplète dans le JDR
