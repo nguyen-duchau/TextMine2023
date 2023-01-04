@@ -14,6 +14,7 @@ INPUT_DATA = ['dataset/JDR.json',
 FOLDER = './bonzai_data/'
 STEM = 'textmine'
 
+N_ESTIMATORS = '100'
 OVERSAMPLING_CLASSES = {'Project': 3,
                         'Social_Network': 20,
                         'Reference_User': 30,
@@ -34,28 +35,34 @@ FEATURES = {'token': 'text',
             # 'line': 'continuous'
             }
 
-REGEX = {'mail': r'[\w\-\'\.]+@[\w\-]+[.]\w+',
-         'tel': r'(?:[+]\D?)?\d+(?:\D{0,2}\d){6,12}',
-         'url': r'[\w\-\.]+[.][a-zA-Z]+',
-         'http': r'http.*',
-         'handle': r'^@.*',
-         'postcode': r'\d{5}',
-         'caps': r'^[A-Z]',
-         'allcaps': r'^[A-Z]+$',
-         # 'social': r'Facebook|Linkedin|Instagram|Twitter'
-         }
+REGEX_M = {
+    'mail': r'[\w\-\'\.]+@[\w\-]+[.]\w+',
+    'tel': r'(?:[+]\D?)?\d+(?:\D{0,2}\d){6,12}',
+    'url': r'[\w\-\.]+[.][a-zA-Z]+',
+    'http': r'http.*',
+    'handle': r'^@.*',
+    'postcode': r'\d{5}',
+    'caps': r'^[A-Z]',
+    'allcaps': r'^[A-Z]+$',
+    'social': r'Facebook|Linkedin|Instagram|Twitter'
+}
+REGEX_T = {
+    # 'suffix_': r'.?.?.?$'
+}
 TEXT_PARAMS = {'expert_length': 1,
                'expert_type': 'ngram',
-               'cutoff': 0}
+               'cutoff': 0
+               }
 
 EVAL_DATA = 'dataset/JDC_for_eval.json'
 
+
 def cleanup(s):
-    return s.replace('\\n', ' \\n ').replace('\\r', '')
+    return s.replace('\n', ' \\n ')
 
 
-def regex_string(name, regex):
-    return 'regex=' + name + '_%M[0,"' + str(regex) + '"]'
+def regex_string(name, regex, mode="M", level='0'):
+    return 'regex=' + name + '_%' + mode + '[' + level + ',"' + str(regex) + '"]'
 
 
 def create_names(filename):
@@ -67,7 +74,9 @@ def create_names(filename):
         for i in FEATURES:
             if FEATURES[i] == 'text':
                 param_str = ' '.join([i + '=' + str(TEXT_PARAMS[i]) for i in TEXT_PARAMS])
-                regex_str = ' '.join([regex_string(i, REGEX[i]) for i in REGEX])
+                regex_str = ' '.join([regex_string(i, REGEX_M[i], 'M') for i in REGEX_M] +
+                                     [regex_string(i, REGEX_T[i], 'T') for i in REGEX_T]
+                                     )
                 f.write(i + ': text: ' + param_str + ' ' + regex_str + '.\n')
             elif FEATURES[i] == 'continuous':
                 f.write(i + ': continuous.\n')
@@ -84,9 +93,9 @@ def process_features(token, text):
                 'token_split': ' '.join(re.split('(\W)', token['form'].replace('\n', ''))),
                 'before': cleanup(before),
                 'after': cleanup(after),
-                'before_on_line': before.split('\\n')[-1] if len(before) != 0 else "",
-                'after_on_line': after.split('\\n')[0] if len(after) != 0 else "",
-                'line': str(len(re.findall(r'\\n', before)))
+                'before_on_line': before.split('\n')[-1] if len(before) != 0 else "",
+                'after_on_line': after.split('\n')[0] if len(after) != 0 else "",
+                'line': str(len(re.findall(r'\n', before)))
                 }
 
     return features
@@ -94,7 +103,7 @@ def process_features(token, text):
 
 def process_data_train(data, out_file):
     for signature in data:
-        text = signature['text'].replace('\n', ' \\n ')
+        text = signature['text']  # .replace('\n', ' \\n ')
         for token in signature['annotations']:
             features = process_features(token, text)
 
@@ -117,11 +126,11 @@ def process_data_test(data, out_file):
             line = '|'.join([features[i] for i in FEATURES] + ['']) + '.'
 
             result = run([
-                "bonzaiboost -S " + STEM + " -boost adamh -n 200 --sep '|' -C -c single -o backoff -v 0 2> " + 'noeval.log'],
+                "bonzaiboost -S " + STEM + " -boost adamh -n " + N_ESTIMATORS + " --sep '|' -C -c single -o backoff -v 0 2> " + 'noeval.log'],
                 shell=True, cwd=FOLDER, stdout=subprocess.PIPE, input=line.encode())
             prediction = result.stdout.decode("utf-8").split('->')[1].strip(' []\n')
 
-            token['label'] = prediction
+            token['label_bonzaiboost'] = prediction
 
     outs = json.dumps(data, ensure_ascii=False)
     out_file.write(outs)
@@ -145,11 +154,12 @@ if __name__ == '__main__':
 
         # Run cross-validation for an evaluation of the model
         run([
-            "bonzaiboost -S " + FOLDER + STEM + " -boost adamh -n 200 --sep '|' -cross k10 -jobs 4 -c single -o backoff > " + FOLDER + "crossval.log"],
+            "bonzaiboost -S " + FOLDER + STEM + " -boost adamh -n " + N_ESTIMATORS + " --sep '|' -cross k10 -jobs 4 -c single -o backoff > " + FOLDER + "crossval.log"],
             shell=True)
         # Train one simple model to be able to extract its features
-        run(["bonzaiboost -S " + STEM + " -boost adamh -n 200 --sep '|'"], cwd=FOLDER, shell=True)
-        run(["bonzaiboost -S " + STEM + " -boost adamh -n 200 --sep '|' --info -o 0.005"], cwd=FOLDER, shell=True)
+        run(["bonzaiboost -S " + STEM + " -boost adamh -n " + N_ESTIMATORS + " --sep '|'"], cwd=FOLDER, shell=True)
+        run(["bonzaiboost -S " + STEM + " -boost adamh -n " + N_ESTIMATORS + " --sep '|' --info -o 0.005"], cwd=FOLDER,
+            shell=True)
 
     if TEST:
         print("Evaluation")
