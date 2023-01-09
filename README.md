@@ -3,7 +3,7 @@
 # Key informations:
 
 1. Challenge details: https://github.com/Emvista/Challenge_TextMine_2023
-2. Result deadline: **9/10/2023**
+2. Result deadline: **9/01/2023** (Test Data : **8/01/2023**)   
 3. Paper deadline (2 pages): **13/01/2023**
 4. Result submission: [textmine@emvista.com](mailto:textmine@emvista.com). **3 submissions max**
 5. Paper submission: [https://easychair.org/conferences/?conf=textmine23](https://easychair.org/conferences/?conf=textmine23)
@@ -27,11 +27,15 @@
 - [x] Responsable de communication: **Nico**
 - [x] Etat de l'art: **Hugo**
 - [ ] GCN: **Hugo**
+- [ ] CRF: **Hugo**
 - [x] Bonsai Boost: **Nico**
 - [ ] BERT-NERT: **Duc**
   - [x] Camembert-BERT vanilla test
   - [ ] Variation de tokenization
-  - [ ] Retrain on a limited class
+  - [ ] Retrain on a limited number of classes
+    - [ ] Function, Organization
+    - [ ] Function, Organization, Project
+    - [ ] Function, Organization, Project, Location
 - [x] RegExp: **Victor**
 - [ ] QA : **Cyrielle**
 - [ ] Luke: **Cyrielle**

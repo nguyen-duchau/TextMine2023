@@ -5,13 +5,28 @@ Le premier défi du groupe de travail TextMine a été lancé le 21 octobre en �
 
 Le défi proposé se focalise sur la reconnaissance d'entités d'intérêts dans les signatures d'e-mails dans le but de structurer l'information et de la stocker en base de données (par exemple un système de gestion de la relation client).
 
+# Mise à jour
+
+**30 Décembre 2022**
+
+* Correction de formes incorrectes (qui terminent par \n) dans le JDF
+
+**Mardi 27 Décembre 2022**
+
+* Homogénéisation des formats : les sauts de lignes du JDR sont désormais encodées "\n" plutôt que "\\\r\\\n"
+* Correction d'annotations dans le JDR
+
+**Jeudi 15 Décembre 2022**
+
+* Correction d'une erreur d'offsets dans le JDR
+* Correction d'une annotation incomplète dans le JDR
 
 # Participer
-1/ Se signaler auprès de textmine@emvista.com afin d'être notifié des éventuelles mises à jour et autres informations  
-2/ Accès au github pour prendre connaissance du défi et acquérir les jeux de données  
-3/ Envoyer le fichier des résultats par e-mail à textmine@emvista.com (3 envois possibles au maximum) avant le 10 janvier 2023  
-4/ Notification du résultat par les organisateurs après chaque envoi  
-5/ Publication du résultat à l’atelier TextMine (17 janvier 2023) et attribution du prix  
+1. Se signaler auprès de textmine@emvista.com afin d'être notifié des éventuelles mises à jour et autres informations;  
+2. Accès au github pour prendre connaissance du défi et acquérir les jeux de données;
+3. Envoyer le fichier des résultats par e-mail à textmine@emvista.com (3 envois possibles au maximum) avant le 10 janvier 2023. Les données de tests seront ajoutées à ce dépôt github le 8 janvier 2023;
+4. Notification du résultat par les organisateurs après chaque envoi;
+5. Publication du résultat à l’atelier TextMine le 17 janvier 2023 et attribution du prix.
 
 # Data
 
