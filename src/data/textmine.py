@@ -4,17 +4,25 @@ from typing import List
 import pandas as pd
 
 from torch.utils.data import Dataset
-from transformers import PreTrainedTokenizer
+from transformers import PreTrainedTokenizer, CamembertTokenizerFast, AutoTokenizer
 
 FILES = {
 	'jdf': 'JDF.json',
-	'jdR': 'JDR.json',
+	'jdr': 'JDR.json',
+	'labels': 'label_idx.json'
 }
 
 CACHE_FILE = {
 	'jdf': 'jdf.parquet',
-	'jdr': 'jdr.parquet'
+	'jdr': 'jdr.parquet',
+	'full': 'full.parquet',
+	'train': 'train.parquet',
+	'val': 'val.parquet',
+	'test': 'test.parquet'
 }
+
+VAL_SPLIT = .15
+TEST_SPLIT = .15
 
 class TextMineDataset(Dataset):
 	"""
@@ -23,7 +31,7 @@ class TextMineDataset(Dataset):
 	
 	def __init__(self,
 	             split,
-	             tokenizer: PreTrainedTokenizer,
+	             tokenizer: PreTrainedTokenizer=None,
 	             labels:List[str] =None,
 	             data_path:str=path.join('..', 'dataset'),
 	             cache:str=path.join('..', '.cache')):
@@ -40,19 +48,33 @@ class TextMineDataset(Dataset):
 		:param cache: path to export cache files
 		:type cache: str
 		"""
-		
 		self.split = split
 		
+		if isinstance(tokenizer, str):
+			tokenizer = AutoTokenizer.from_pretrained(tokenizer, cache_dir=path.join(cache, 'transformers'))
+		if tokenizer is None:
+			tokenizer = CamembertTokenizerFast.from_pretrained("camembert-base", cache_dir=cache)
+		self.tokenizer = tokenizer
+		
 		cache_path = path.join(cache, CACHE_FILE[split])
+		label_path = path.join(cache, FILES['labels'])
+		
+		## Pre process data and load from cache files
 		if path.exists(cache_path):
 			self.data = pd.read_parquet(cache_path)
+			self.data['input_ids'] = self.data['input_ids'].apply(lambda x: x.tolist())
+			self.data['attention_mask'] = self.data['attention_mask'].apply(lambda x: x.tolist())
+			self.data['ner_tags'] = self.data['ner_tags'].apply(lambda x: x.tolist())
 			print(f'Load cache data from {cache_path}')
+			
 		else:
+			
 			with open(path.join(data_path, FILES[split]), 'r') as f:
 				json_data = json.load(f)
-				
+			
 			# clean data
-			json_data = self.__remove_overlapping(json_data)
+			self.__remove_overlapping(json_data)
+			self.__check_overlapping(json_data)
 			
 			# Tokenize text
 			texts = [d['text'] for d in json_data]
@@ -70,15 +92,24 @@ class TextMineDataset(Dataset):
 			self.data.to_parquet(cache_path)
 			print(f'Cache data at {cache_path}')
 		
-		if labels is None:
-			unique_labels = list(set([i for l in self.data['ner_tags'] for i in l]))
-			self.id2label = unique_labels
+		## Load labels
+		if path.exists(label_path):
+			with open(label_path) as f:
+				labels_idx = json.load(f)
+				self.id2label = labels_idx['id2label']
+				self.label2id = labels_idx['label2id']
+				print(f'Load label idx from {label_path}')
 		else:
-			self.id2label = labels
+			print(f'Generate new label2idx')
+			unique_labels = list(set([i for l in self.data['ner_tags'] for i in l]))
+			self.id2label = sorted(unique_labels, key=lambda x: 0 if len(x) == 1 else (ord(x[2]))*1e3 + ord(x[0]), reverse=False)
+			self.label2id = {label: idx for idx, label in enumerate(self.id2label)}
+		
+		if labels is not None:
 			# Convert to 'O' for all ner tag not in label list
+			self.id2label = labels
 			self.data['ner_tags'] = self.data['ner_tags'].apply(lambda ner_vector: ['O' if ner not in labels else ner for ner in ner_vector])
-			
-		self.label2id = {label: idx for idx, label in enumerate(self.id2label)}
+		
 		self.data['labels'] = self.data['ner_tags'].apply(lambda x: [self.label2id[x_] for x_ in x])
 	
 	def __getitem__(self, idx):
@@ -97,6 +128,18 @@ class TextMineDataset(Dataset):
 			for pre, post in zip(annotations[:-1], annotations[1:]):
 				if pre['end'] >= post['end']:
 					annotations.remove(post)
+	
+	@staticmethod
+	def __check_overlapping(data):
+		for data_row in data:
+			annotations = data_row['annotations']
+			for pre, post in zip(annotations[:-1], annotations[1:]):
+				if pre['end'] > post['begin']:
+					print('TEXT:', data_row['text'])
+					print(pre)
+					print(post)
+					print('=' * 15)
+		
 	
 	@staticmethod
 	def __mapping_nertag(token_span_batch, annotations_batch):
