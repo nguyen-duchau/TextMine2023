@@ -31,7 +31,7 @@
         "form": "&",
         "begin": 40,
         "end": 41,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "Fidélisation",
@@ -211,7 +211,7 @@
         "form": "'",
         "begin": 70,
         "end": 71,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Project"
       },
       {
         "form": "Idée",
@@ -421,7 +421,7 @@
         "form": "04 93 88 13 52",
         "begin": 123,
         "end": 137,
-        "label_bonzaiboost": "Phone_Number"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "03.55.43.88.02",
@@ -529,7 +529,7 @@
         "form": "Co-fondateur",
         "begin": 17,
         "end": 29,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "consultant",
@@ -763,19 +763,19 @@
         "form": "Assistante",
         "begin": 17,
         "end": 27,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "de",
         "begin": 28,
         "end": 30,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "cohésion",
         "begin": 31,
         "end": 39,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "19",
@@ -889,7 +889,7 @@
         "form": "Joseph",
         "begin": 121,
         "end": 127,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Perreault",
@@ -907,7 +907,7 @@
         "form": "associé",
         "begin": 151,
         "end": 158,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Function"
       },
       {
         "form": "à",
@@ -955,13 +955,13 @@
         "form": "Eugène",
         "begin": 0,
         "end": 6,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Human"
       },
       {
         "form": "Roussel",
         "begin": 7,
         "end": 14,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Human"
       },
       {
         "form": "Assistante",
@@ -1003,25 +1003,25 @@
         "form": "06 30 16 49 06",
         "begin": 126,
         "end": 140,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "House",
         "begin": 141,
         "end": 146,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Of",
         "begin": 147,
         "end": 149,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Denmark",
         "begin": 150,
         "end": 157,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "iAfraid.fr",
@@ -1033,7 +1033,7 @@
         "form": "iAfraid.fr",
         "begin": 172,
         "end": 182,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Espace",
@@ -1111,7 +1111,7 @@
         "form": "enseignant-chercheur",
         "begin": 18,
         "end": 38,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "en",
@@ -1159,13 +1159,13 @@
         "form": "du",
         "begin": 29,
         "end": 31,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "Pôle",
         "begin": 32,
         "end": 36,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "Infrastructure",
@@ -1195,7 +1195,7 @@
         "form": "Sections",
         "begin": 65,
         "end": 73,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "Earthworks",
@@ -1255,7 +1255,7 @@
         "form": "boulevard",
         "begin": 160,
         "end": 169,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "des",
@@ -1291,25 +1291,25 @@
         "form": "Facebook",
         "begin": 237,
         "end": 245,
-        "label_bonzaiboost": "Social_Network"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Twitter",
         "begin": 248,
         "end": 255,
-        "label_bonzaiboost": "Social_Network"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Google",
         "begin": 258,
         "end": 264,
-        "label_bonzaiboost": "Social_Network"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "YouTube",
         "begin": 268,
         "end": 275,
-        "label_bonzaiboost": "Social_Network"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "LinkedIn",
@@ -1375,13 +1375,13 @@
         "form": "&",
         "begin": 22,
         "end": 23,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "partenariats",
         "begin": 24,
         "end": 36,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "05 63 98 03 05",
@@ -1489,7 +1489,7 @@
         "form": "Co-responsable",
         "begin": 108,
         "end": 122,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "du",
@@ -1579,19 +1579,19 @@
         "form": "Senior",
         "begin": 57,
         "end": 63,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Function"
       },
       {
         "form": "Business",
         "begin": 64,
         "end": 72,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Function"
       },
       {
         "form": "Unit",
         "begin": 73,
         "end": 77,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Function"
       },
       {
         "form": "Manager",
@@ -1621,7 +1621,7 @@
         "form": "05 94 45 69 05",
         "begin": 141,
         "end": 155,
-        "label_bonzaiboost": "Project"
+        "label_bonzaiboost": "Phone_Number"
       },
       {
         "form": "GradassoAbril@dayrep.com",
@@ -1699,19 +1699,19 @@
         "form": "Sales",
         "begin": 16,
         "end": 21,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "manager",
         "begin": 22,
         "end": 29,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "01.30.07.86.18",
         "begin": 30,
         "end": 44,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Phone_Number"
       }
     ]
   },
@@ -1885,7 +1885,7 @@
         "form": "Montpellier",
         "begin": 67,
         "end": 78,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Function"
       },
       {
         "form": "LeggetDupont@armyspy.com",
@@ -2149,7 +2149,7 @@
         "form": "Ingénieur",
         "begin": 16,
         "end": 25,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Project"
       },
       {
         "form": "des",
@@ -2167,13 +2167,13 @@
         "form": "Jackhammer",
         "begin": 38,
         "end": 48,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Project"
       },
       {
         "form": "Technologies",
         "begin": 49,
         "end": 61,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Project"
       },
       {
         "form": "30",
@@ -2227,7 +2227,7 @@
         "form": "(0)3 52 27 54 53",
         "begin": 125,
         "end": 141,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Phone_Number"
       },
       {
         "form": "GustaveLamare@dayrep.com",
@@ -2293,13 +2293,13 @@
         "form": "Paul",
         "begin": 88,
         "end": 92,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Bec",
         "begin": 93,
         "end": 96,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "17300",
@@ -2407,7 +2407,7 @@
         "form": "(0)4 15 53 87 55",
         "begin": 66,
         "end": 82,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "+33.06.47.76.39.21",
@@ -2527,7 +2527,7 @@
         "form": "DianeMiron@teleworm.us",
         "begin": 43,
         "end": 65,
-        "label_bonzaiboost": "Email"
+        "label_bonzaiboost": "Human"
       },
       {
         "form": "Domaine",
@@ -2545,25 +2545,25 @@
         "form": "10",
         "begin": 84,
         "end": 86,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": ",",
         "begin": 86,
         "end": 87,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Rue",
         "begin": 88,
         "end": 91,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "Mathis-Pierre",
         "begin": 92,
         "end": 105,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Bianca",
@@ -2575,13 +2575,13 @@
         "form": "03.26.25.69.81",
         "begin": 131,
         "end": 145,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Phone_Number"
       },
       {
         "form": "TanningShow.fr",
         "begin": 146,
         "end": 160,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Url"
       },
       {
         "form": "TanningShow.fr",
@@ -2839,7 +2839,7 @@
         "form": "(0)4 81 71 21 28",
         "begin": 68,
         "end": 84,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Phone_Number"
       },
       {
         "form": "RangerChenard@armyspy.com",
@@ -2959,67 +2959,67 @@
         "form": "Kent",
         "begin": 102,
         "end": 106,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "'",
         "begin": 106,
         "end": 107,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "s",
         "begin": 107,
         "end": 108,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "InsureTaxes.fr",
         "begin": 111,
         "end": 125,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Url"
       },
       {
         "form": "InsureTaxes.fr",
         "begin": 127,
         "end": 141,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Url"
       },
       {
         "form": "Espace",
         "begin": 143,
         "end": 149,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Géant",
         "begin": 150,
         "end": 155,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "24",
         "begin": 156,
         "end": 158,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "avenue",
         "begin": 159,
         "end": 165,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Jean",
         "begin": 166,
         "end": 170,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Jaurès",
         "begin": 171,
         "end": 177,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "37100",
@@ -3031,13 +3031,13 @@
         "form": "Abainville",
         "begin": 185,
         "end": 195,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "France",
         "begin": 198,
         "end": 204,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       }
     ]
   },
@@ -3115,7 +3115,7 @@
         "form": "Site",
         "begin": 120,
         "end": 124,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "de",
@@ -3199,7 +3199,7 @@
         "form": "07 59 53 38 09",
         "begin": 43,
         "end": 57,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Phone_Number"
       }
     ]
   },
@@ -3271,13 +3271,13 @@
         "form": "2",
         "begin": 70,
         "end": 71,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "place",
         "begin": 72,
         "end": 77,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Jean",
@@ -3469,25 +3469,25 @@
         "form": "14",
         "begin": 13,
         "end": 15,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "route",
         "begin": 16,
         "end": 21,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "de",
         "begin": 22,
         "end": 24,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "la",
         "begin": 25,
         "end": 27,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "côte",
@@ -3499,19 +3499,19 @@
         "form": "d",
         "begin": 33,
         "end": 34,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "'",
         "begin": 34,
         "end": 35,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Amour",
         "begin": 35,
         "end": 40,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "92350",
@@ -3529,7 +3529,7 @@
         "form": "06 54 82 04 66",
         "begin": 68,
         "end": 82,
-        "label_bonzaiboost": "Phone_Number"
+        "label_bonzaiboost": "Reference_CEDEX"
       },
       {
         "form": "GreenPlague.fr",
@@ -3637,13 +3637,13 @@
         "form": "+33 04 50 36 02 35",
         "begin": 56,
         "end": 74,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Phone_Number"
       },
       {
         "form": "07.86.92.33.43",
         "begin": 76,
         "end": 90,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Phone_Number"
       },
       {
         "form": "OlivierBatard@teleworm.us",
@@ -3697,7 +3697,7 @@
         "form": "Physique",
         "begin": 37,
         "end": 45,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Organization"
       }
     ]
   },
@@ -3889,7 +3889,7 @@
         "form": "Directeur",
         "begin": 36,
         "end": 45,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "d",
@@ -3901,7 +3901,7 @@
         "form": "'",
         "begin": 47,
         "end": 48,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Agence",
@@ -4063,13 +4063,13 @@
         "form": "MB@Totern",
         "begin": 18,
         "end": 27,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Program",
         "begin": 28,
         "end": 35,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Operations",
@@ -4201,7 +4201,7 @@
         "form": "CS",
         "begin": 80,
         "end": 82,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "03200",
@@ -4225,7 +4225,7 @@
         "form": "03 62 47 97 89",
         "begin": 110,
         "end": 124,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "24",
@@ -4237,7 +4237,7 @@
         "form": "avenue",
         "begin": 128,
         "end": 134,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Reference_CS"
       },
       {
         "form": "Jean",
@@ -4249,7 +4249,7 @@
         "form": "Jaurès",
         "begin": 140,
         "end": 146,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Reference_CS"
       },
       {
         "form": "03200",
@@ -4261,7 +4261,7 @@
         "form": "Abainville",
         "begin": 155,
         "end": 165,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "France",
@@ -4369,7 +4369,7 @@
         "form": "la",
         "begin": 52,
         "end": 54,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "Nutrition",
@@ -4459,13 +4459,13 @@
         "form": "Marcel",
         "begin": 152,
         "end": 158,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Godechot",
         "begin": 159,
         "end": 167,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "33260",
@@ -4489,7 +4489,7 @@
         "form": "51",
         "begin": 189,
         "end": 191,
-        "label_bonzaiboost": "Reference_CEDEX"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "+33.02.97.04.85.93",
@@ -4537,7 +4537,7 @@
         "form": "G",
         "begin": 37,
         "end": 38,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "Nutri",
@@ -4549,7 +4549,7 @@
         "form": "G",
         "begin": 45,
         "end": 46,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "89",
@@ -4795,13 +4795,13 @@
         "form": "Gold",
         "begin": 28,
         "end": 32,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Function"
       },
       {
         "form": "Touch",
         "begin": 33,
         "end": 38,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Function"
       },
       {
         "form": "Gold",
@@ -4873,7 +4873,7 @@
         "form": "5",
         "begin": 110,
         "end": 111,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Phone_Number"
       },
       {
         "form": "Bur",
@@ -4897,7 +4897,7 @@
         "form": "860",
         "begin": 126,
         "end": 129,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "rue",
@@ -4951,7 +4951,7 @@
         "form": "01 75 66 77 23",
         "begin": 178,
         "end": 192,
-        "label_bonzaiboost": "Phone_Number"
+        "label_bonzaiboost": "Reference_CEDEX"
       },
       {
         "form": "03 75 12 03 84",
@@ -5005,13 +5005,13 @@
         "form": "KG",
         "begin": 20,
         "end": 22,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Menswear",
         "begin": 23,
         "end": 31,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "3",
@@ -5251,25 +5251,25 @@
         "form": "Co-fondateur",
         "begin": 15,
         "end": 27,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "Giant",
         "begin": 28,
         "end": 33,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "Open",
         "begin": 34,
         "end": 38,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "Air",
         "begin": 39,
         "end": 42,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "+33 02 46 15 16 43",
@@ -5287,7 +5287,7 @@
         "form": "arMenrix",
         "begin": 84,
         "end": 92,
-        "label_bonzaiboost": "Project"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Facebook",
@@ -5779,19 +5779,19 @@
         "form": "+33.05.90.39.22.83",
         "begin": 73,
         "end": 91,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Macroserve",
         "begin": 93,
         "end": 103,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Callzine.fr",
         "begin": 107,
         "end": 118,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Espace",
@@ -5929,7 +5929,7 @@
         "form": "Eugène",
         "begin": 154,
         "end": 160,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Bataillon",
@@ -6085,19 +6085,19 @@
         "form": "+33.06.50.83.22.61",
         "begin": 145,
         "end": 163,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "04.95.11.80.38",
         "begin": 167,
         "end": 181,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "MotorAnalyst.fr",
         "begin": 182,
         "end": 197,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Url"
       },
       {
         "form": "MotorAnalyst.fr",
@@ -6229,7 +6229,7 @@
         "form": "1",
         "begin": 8,
         "end": 9,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "place",
@@ -6379,7 +6379,7 @@
         "form": "Engineering",
         "begin": 22,
         "end": 33,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "Nedick",
@@ -6451,7 +6451,7 @@
         "form": "(0)4 65 54 88 49",
         "begin": 48,
         "end": 64,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Phone_Number"
       },
       {
         "form": "Expo",
@@ -6571,7 +6571,7 @@
         "form": "06 33 15 60 28",
         "begin": 92,
         "end": 106,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Phone_Number"
       },
       {
         "form": "1095",
@@ -6643,13 +6643,13 @@
         "form": "à",
         "begin": 21,
         "end": 22,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "la",
         "begin": 23,
         "end": 25,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "Cour",
@@ -6793,7 +6793,7 @@
         "form": "due",
         "begin": 54,
         "end": 57,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "des",
@@ -6859,7 +6859,7 @@
         "form": "Maitre",
         "begin": 23,
         "end": 29,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "de",
@@ -6925,7 +6925,7 @@
         "form": "Prospa-Pal",
         "begin": 108,
         "end": 118,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Place",
@@ -6937,13 +6937,13 @@
         "form": "Eugène",
         "begin": 135,
         "end": 141,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Bataillon",
         "begin": 142,
         "end": 151,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "75019",
@@ -6967,7 +6967,7 @@
         "form": "04",
         "begin": 170,
         "end": 172,
-        "label_bonzaiboost": "Reference_CEDEX"
+        "label_bonzaiboost": "Location"
       }
     ]
   },
@@ -7033,7 +7033,7 @@
         "form": "Durfees",
         "begin": 70,
         "end": 77,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "Carl",
@@ -7051,7 +7051,7 @@
         "form": "Lancaster",
         "begin": 93,
         "end": 102,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "+33 06 42 05 53 96",
@@ -7087,25 +7087,25 @@
         "form": "Directeur",
         "begin": 20,
         "end": 29,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "commercial",
         "begin": 30,
         "end": 40,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Sales",
         "begin": 43,
         "end": 48,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Director",
         "begin": 49,
         "end": 57,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "EstelleTrepanier@teleworm.us",
@@ -7141,19 +7141,19 @@
         "form": "StartupBoard.fr",
         "begin": 149,
         "end": 164,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Url"
       },
       {
         "form": "Espace",
         "begin": 165,
         "end": 171,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Géant",
         "begin": 172,
         "end": 177,
-        "label_bonzaiboost": "Phone_Number"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "24",
@@ -7165,7 +7165,7 @@
         "form": "avenue",
         "begin": 181,
         "end": 187,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Jean",
@@ -7273,19 +7273,19 @@
         "form": "évènementiel",
         "begin": 27,
         "end": 39,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Function"
       },
       {
         "form": "&",
         "begin": 40,
         "end": 41,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "marketing",
         "begin": 42,
         "end": 51,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "03.56.15.10.68",
@@ -7297,7 +7297,7 @@
         "form": "(0)6 98 00 58 27",
         "begin": 70,
         "end": 86,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Phone_Number"
       },
       {
         "form": "Brown",
@@ -7393,7 +7393,7 @@
         "form": ",",
         "begin": 19,
         "end": 20,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Quai",
@@ -7639,13 +7639,13 @@
         "form": "Président",
         "begin": 13,
         "end": 22,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "de",
         "begin": 23,
         "end": 25,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "l",
@@ -7657,7 +7657,7 @@
         "form": "'",
         "begin": 27,
         "end": 28,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "Association",
@@ -7897,7 +7897,7 @@
         "form": "Man",
         "begin": 70,
         "end": 73,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Function"
       },
       {
         "form": "Today",
@@ -7921,13 +7921,13 @@
         "form": "Man",
         "begin": 82,
         "end": 85,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Function"
       },
       {
         "form": "Duesseldorf",
         "begin": 86,
         "end": 97,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Function"
       },
       {
         "form": "Building",
@@ -7939,13 +7939,13 @@
         "form": "24",
         "begin": 107,
         "end": 109,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": ".",
         "begin": 109,
         "end": 110,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "53",
@@ -7957,25 +7957,25 @@
         "form": "Room",
         "begin": 114,
         "end": 118,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "00",
         "begin": 119,
         "end": 121,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": ".",
         "begin": 121,
         "end": 122,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "94",
         "begin": 122,
         "end": 124,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Phone_Number"
       },
       {
         "form": "Today",
@@ -8017,7 +8017,7 @@
         "form": "Germany",
         "begin": 155,
         "end": 162,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Function"
       },
       {
         "form": "SnowEngine.fr",
@@ -8089,7 +8089,7 @@
         "form": "(0)5 61 24 91 99",
         "begin": 61,
         "end": 77,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Phone_Number"
       },
       {
         "form": "ArnoGiroux@dayrep.com",
@@ -8119,19 +8119,19 @@
         "form": "10",
         "begin": 182,
         "end": 184,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": ",",
         "begin": 184,
         "end": 185,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "000",
         "begin": 185,
         "end": 188,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Auto",
@@ -8161,7 +8161,7 @@
         "form": "Bataillon",
         "begin": 222,
         "end": 231,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "71300",
@@ -8221,31 +8221,31 @@
         "form": "Assistante",
         "begin": 16,
         "end": 26,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "de",
         "begin": 27,
         "end": 29,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "coordination",
         "begin": 30,
         "end": 42,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Coordination",
         "begin": 45,
         "end": 57,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Assistant",
         "begin": 58,
         "end": 67,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "EmmelineJoly@jourrapide.com",
@@ -8263,7 +8263,7 @@
         "form": "(0)3 86 50 10 06",
         "begin": 132,
         "end": 148,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Phone_Number"
       },
       {
         "form": "William",
@@ -8281,7 +8281,7 @@
         "form": "&",
         "begin": 168,
         "end": 169,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Phone_Number"
       },
       {
         "form": "Sons",
@@ -8293,19 +8293,19 @@
         "form": "TallTide.fr",
         "begin": 178,
         "end": 189,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Url"
       },
       {
         "form": "Espace",
         "begin": 190,
         "end": 196,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Géant",
         "begin": 197,
         "end": 202,
-        "label_bonzaiboost": "Phone_Number"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "24",
@@ -8317,19 +8317,19 @@
         "form": "avenue",
         "begin": 206,
         "end": 212,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Jean",
         "begin": 213,
         "end": 217,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Jaurès",
         "begin": 218,
         "end": 224,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "94230",
@@ -8341,7 +8341,7 @@
         "form": "Abainville",
         "begin": 232,
         "end": 242,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "France",
@@ -8431,7 +8431,7 @@
         "form": "06 08 91 50 38",
         "begin": 75,
         "end": 89,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Phone_Number"
       },
       {
         "form": "06 34 71 19 01",
@@ -8551,7 +8551,7 @@
         "form": "Mathématique",
         "begin": 38,
         "end": 50,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Function"
       },
       {
         "form": ",",
@@ -8563,7 +8563,7 @@
         "form": "BGD",
         "begin": 52,
         "end": 55,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Function"
       },
       {
         "form": ",",
@@ -8575,7 +8575,7 @@
         "form": "Fossiles",
         "begin": 57,
         "end": 65,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Function"
       },
       {
         "form": ",",
@@ -8587,7 +8587,7 @@
         "form": "Physique",
         "begin": 67,
         "end": 75,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Function"
       },
       {
         "form": ",",
@@ -8629,7 +8629,7 @@
         "form": "Place",
         "begin": 151,
         "end": 156,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "Eugène",
@@ -8737,31 +8737,31 @@
         "form": "Chargée",
         "begin": 67,
         "end": 74,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Function"
       },
       {
         "form": "de",
         "begin": 75,
         "end": 77,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Function"
       },
       {
         "form": "Mission",
         "begin": 78,
         "end": 85,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "Sport",
         "begin": 86,
         "end": 91,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "KDJ",
         "begin": 92,
         "end": 95,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "Edge",
@@ -8785,19 +8785,19 @@
         "form": "Edge",
         "begin": 114,
         "end": 118,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Function"
       },
       {
         "form": "Yard",
         "begin": 119,
         "end": 123,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Function"
       },
       {
         "form": "Service",
         "begin": 124,
         "end": 131,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Function"
       },
       {
         "form": "Edge",
@@ -8821,7 +8821,7 @@
         "form": "07 66 75 43 69",
         "begin": 152,
         "end": 166,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Phone_Number"
       }
     ]
   },
@@ -8959,7 +8959,7 @@
         "form": "s",
         "begin": 57,
         "end": 58,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "Foods",
@@ -9025,7 +9025,7 @@
         "form": "07 61 81 96 50",
         "begin": 122,
         "end": 136,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Phone_Number"
       }
     ]
   },
@@ -9109,19 +9109,19 @@
         "form": "57",
         "begin": 92,
         "end": 94,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "route",
         "begin": 95,
         "end": 100,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "d’Antony",
         "begin": 101,
         "end": 109,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "44120",
@@ -9139,7 +9139,7 @@
         "form": "DraftPreview.fr",
         "begin": 189,
         "end": 204,
-        "label_bonzaiboost": "Url"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "DraftPreview.fr",
@@ -9175,7 +9175,7 @@
         "form": "07 79 86 49 17",
         "begin": 20,
         "end": 34,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Phone_Number"
       },
       {
         "form": "FluFood.fr",
@@ -9289,7 +9289,7 @@
         "form": "07 87 50 13 23",
         "begin": 38,
         "end": 52,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Phone_Number"
       },
       {
         "form": "Seamans",
@@ -9367,7 +9367,7 @@
         "form": "Cedex",
         "begin": 163,
         "end": 168,
-        "label_bonzaiboost": "Reference_CEDEX"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "43",
@@ -9535,13 +9535,13 @@
         "form": "LogTrades.fr",
         "begin": 194,
         "end": 206,
-        "label_bonzaiboost": "Url"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "Facebook",
         "begin": 207,
         "end": 215,
-        "label_bonzaiboost": "Social_Network"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "LogTrades.fr",
@@ -9685,7 +9685,7 @@
         "form": "Associée",
         "begin": 39,
         "end": 47,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Function"
       },
       {
         "form": "Nobil",
@@ -9715,7 +9715,7 @@
         "form": "827",
         "begin": 72,
         "end": 75,
-        "label_bonzaiboost": "Phone_Number"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "LERASS-",
@@ -9727,13 +9727,13 @@
         "form": "(",
         "begin": 83,
         "end": 84,
-        "label_bonzaiboost": "Phone_Number"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "CERIC",
         "begin": 84,
         "end": 89,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": ")",
@@ -9847,7 +9847,7 @@
         "form": "Comptable",
         "begin": 19,
         "end": 28,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "19",
@@ -9937,7 +9937,7 @@
         "form": "Conseiller",
         "begin": 16,
         "end": 26,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "Innovation/R&D",
@@ -9997,7 +9997,7 @@
         "form": "Earl",
         "begin": 223,
         "end": 227,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "Abel",
@@ -10045,13 +10045,13 @@
         "form": "de",
         "begin": 27,
         "end": 29,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Function"
       },
       {
         "form": "la",
         "begin": 30,
         "end": 32,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "Logistique",
@@ -10237,7 +10237,7 @@
         "form": "02 47 91 99 24",
         "begin": 66,
         "end": 80,
-        "label_bonzaiboost": "Phone_Number"
+        "label_bonzaiboost": "Reference_CEDEX"
       }
     ]
   },
@@ -10315,31 +10315,31 @@
         "form": "05.82.15.64.79",
         "begin": 98,
         "end": 112,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "123",
         "begin": 113,
         "end": 116,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "chemin",
         "begin": 117,
         "end": 123,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "du",
         "begin": 124,
         "end": 126,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "siècle",
         "begin": 127,
         "end": 133,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "80000",
@@ -10351,7 +10351,7 @@
         "form": "Mirmande",
         "begin": 140,
         "end": 148,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       }
     ]
   },
@@ -10465,73 +10465,73 @@
         "form": "Responsable",
         "begin": 12,
         "end": 23,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Human"
       },
       {
         "form": "Architecture",
         "begin": 24,
         "end": 36,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Human"
       },
       {
         "form": "Fonctionnelle",
         "begin": 37,
         "end": 50,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Human"
       },
       {
         "form": "Eisner",
         "begin": 51,
         "end": 57,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Human"
       },
       {
         "form": "Food",
         "begin": 58,
         "end": 62,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Human"
       },
       {
         "form": "Stores",
         "begin": 63,
         "end": 69,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Human"
       },
       {
         "form": "Eisner",
         "begin": 70,
         "end": 76,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Human"
       },
       {
         "form": "Food",
         "begin": 77,
         "end": 81,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Human"
       },
       {
         "form": "Stores",
         "begin": 82,
         "end": 88,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Human"
       },
       {
         "form": "Eisner",
         "begin": 90,
         "end": 96,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Human"
       },
       {
         "form": "Food",
         "begin": 97,
         "end": 101,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Human"
       },
       {
         "form": "Stores",
         "begin": 102,
         "end": 108,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Human"
       },
       {
         "form": "29",
@@ -10543,7 +10543,7 @@
         "form": "Rue",
         "begin": 112,
         "end": 115,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Saint-Lazare",
@@ -10591,7 +10591,7 @@
         "form": "02.72.76.53.76",
         "begin": 250,
         "end": 264,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Phone_Number"
       }
     ]
   },
@@ -10759,7 +10759,7 @@
         "form": "87",
         "begin": 158,
         "end": 160,
-        "label_bonzaiboost": "Reference_CEDEX"
+        "label_bonzaiboost": "Location"
       }
     ]
   },
@@ -11035,7 +11035,7 @@
         "form": "141",
         "begin": 21,
         "end": 24,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Phone_Number"
       },
       {
         "form": "Bâtiment",
@@ -11233,7 +11233,7 @@
         "form": "Eugène",
         "begin": 208,
         "end": 214,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Bataillon",
@@ -11305,19 +11305,19 @@
         "form": "912",
         "begin": 33,
         "end": 36,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "av",
         "begin": 37,
         "end": 39,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "du",
         "begin": 40,
         "end": 42,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Père",
@@ -11347,7 +11347,7 @@
         "form": "(0)2 41 17 92 65",
         "begin": 73,
         "end": 89,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Reference_CEDEX"
       },
       {
         "form": "05 32 85 31 56",
@@ -11437,7 +11437,7 @@
         "form": "Responsable",
         "begin": 18,
         "end": 29,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "PÔLE",
@@ -11497,7 +11497,7 @@
         "form": "Chef",
         "begin": 17,
         "end": 21,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "de",
@@ -11527,13 +11527,13 @@
         "form": "Scott",
         "begin": 43,
         "end": 48,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Function"
       },
       {
         "form": "Ties",
         "begin": 49,
         "end": 53,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Function"
       },
       {
         "form": "Scott",
@@ -11551,13 +11551,13 @@
         "form": "Site",
         "begin": 67,
         "end": 71,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Function"
       },
       {
         "form": "de",
         "begin": 72,
         "end": 74,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Function"
       },
       {
         "form": "Montpellier",
@@ -11659,19 +11659,19 @@
         "form": "Chef",
         "begin": 21,
         "end": 25,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "de",
         "begin": 26,
         "end": 28,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "projet",
         "begin": 29,
         "end": 35,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Project",
@@ -11707,13 +11707,13 @@
         "form": "Family",
         "begin": 148,
         "end": 154,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Human"
       },
       {
         "form": "Toy",
         "begin": 155,
         "end": 158,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Human"
       },
       {
         "form": "IndividualReport.fr",
@@ -11725,7 +11725,7 @@
         "form": "IndividualReport.fr",
         "begin": 182,
         "end": 201,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Human"
       },
       {
         "form": "Espace",
@@ -11803,7 +11803,7 @@
         "form": "Consultante",
         "begin": 17,
         "end": 28,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Function"
       },
       {
         "form": "Dun",
@@ -11995,7 +11995,7 @@
         "form": "de",
         "begin": 26,
         "end": 28,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "ligne",
@@ -12091,13 +12091,13 @@
         "form": "Omni",
         "begin": 16,
         "end": 20,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Function"
       },
       {
         "form": "Tech",
         "begin": 21,
         "end": 25,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Function"
       },
       {
         "form": "Omni",
@@ -12307,19 +12307,19 @@
         "form": "621",
         "begin": 90,
         "end": 93,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Human"
       },
       {
         "form": ",",
         "begin": 93,
         "end": 94,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "rue",
         "begin": 95,
         "end": 98,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Georges",
@@ -12379,7 +12379,7 @@
         "form": "05.16.34.28.81",
         "begin": 191,
         "end": 205,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "KermanBelair@rhyta.com",
@@ -12499,7 +12499,7 @@
         "form": "Full",
         "begin": 29,
         "end": 33,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "Color",
@@ -12529,7 +12529,7 @@
         "form": "Color",
         "begin": 77,
         "end": 82,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Bâtiment",
@@ -12601,13 +12601,13 @@
         "form": "Williams",
         "begin": 54,
         "end": 62,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Bros",
         "begin": 63,
         "end": 67,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": ".",
@@ -12631,7 +12631,7 @@
         "form": ".",
         "begin": 84,
         "end": 85,
-        "label_bonzaiboost": "Phone_Number"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "+33 07 71 50 60 76",
@@ -12835,7 +12835,7 @@
         "form": "Place",
         "begin": 62,
         "end": 67,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "Eugène",
@@ -12979,19 +12979,19 @@
         "form": ",",
         "begin": 1,
         "end": 2,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Rue",
         "begin": 3,
         "end": 6,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "du",
         "begin": 7,
         "end": 9,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Genévrier",
@@ -13129,13 +13129,13 @@
         "form": "Montpellier",
         "begin": 27,
         "end": 38,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Function"
       },
       {
         "form": ",",
         "begin": 38,
         "end": 39,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "France",
@@ -13171,25 +13171,25 @@
         "form": "|",
         "begin": 69,
         "end": 70,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Systèmes",
         "begin": 71,
         "end": 79,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "logiciels/informatique",
         "begin": 80,
         "end": 102,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "|",
         "begin": 103,
         "end": 104,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Web",
@@ -13207,31 +13207,31 @@
         "form": "manager",
         "begin": 117,
         "end": 124,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "IT",
         "begin": 125,
         "end": 127,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "|Information",
         "begin": 128,
         "end": 140,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "systems|",
         "begin": 141,
         "end": 149,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "WEB",
         "begin": 150,
         "end": 153,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Function"
       },
       {
         "form": "1000",
@@ -13285,7 +13285,7 @@
         "form": "+33 (0)3 79 35 22 93",
         "begin": 217,
         "end": 237,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Phone_Number"
       },
       {
         "form": "+33 03 53 86 53 32",
@@ -13411,19 +13411,19 @@
         "form": "Infographiste",
         "begin": 32,
         "end": 45,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Graphic",
         "begin": 48,
         "end": 55,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "designer",
         "begin": 56,
         "end": 64,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "PinabelBazin@dayrep.com",
@@ -13441,25 +13441,25 @@
         "form": "Rink",
         "begin": 116,
         "end": 120,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "'",
         "begin": 120,
         "end": 121,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "s",
         "begin": 121,
         "end": 122,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "DontSin.fr",
         "begin": 126,
         "end": 136,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Url"
       },
       {
         "form": "Espace",
@@ -13489,7 +13489,7 @@
         "form": "Jean",
         "begin": 160,
         "end": 164,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Jaurès",
@@ -13507,7 +13507,7 @@
         "form": "Abainville",
         "begin": 179,
         "end": 189,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "France",
@@ -13519,19 +13519,19 @@
         "form": "Rink",
         "begin": 228,
         "end": 232,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "'",
         "begin": 232,
         "end": 233,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "s",
         "begin": 233,
         "end": 234,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "06 04 05 32 31",
@@ -13549,7 +13549,7 @@
         "form": "'",
         "begin": 262,
         "end": 263,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Phone_Number"
       },
       {
         "form": "s",
@@ -13729,13 +13729,13 @@
         "form": "des",
         "begin": 49,
         "end": 52,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "foresteries",
         "begin": 53,
         "end": 64,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "91100",
@@ -13879,13 +13879,13 @@
         "form": "–",
         "begin": 40,
         "end": 41,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Platin",
         "begin": 42,
         "end": 48,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Matrix",
@@ -13909,19 +13909,19 @@
         "form": "Matrix",
         "begin": 80,
         "end": 86,
-        "label_bonzaiboost": "Project"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Architectural",
         "begin": 87,
         "end": 100,
-        "label_bonzaiboost": "Project"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Service",
         "begin": 101,
         "end": 108,
-        "label_bonzaiboost": "Project"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Matrix",
@@ -13945,13 +13945,13 @@
         "form": "(0)7.79.21.50.03",
         "begin": 145,
         "end": 161,
-        "label_bonzaiboost": "Phone_Number"
+        "label_bonzaiboost": "Project"
       },
       {
         "form": "07 85 96 37 39",
         "begin": 172,
         "end": 186,
-        "label_bonzaiboost": "Project"
+        "label_bonzaiboost": "Phone_Number"
       },
       {
         "form": "GuerinJolicoeur@armyspy.com",
@@ -14071,7 +14071,7 @@
         "form": "9",
         "begin": 49,
         "end": 50,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "avenue",
@@ -14083,13 +14083,13 @@
         "form": "du",
         "begin": 58,
         "end": 60,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Marais",
         "begin": 61,
         "end": 67,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Immeuble",
@@ -14209,7 +14209,7 @@
         "form": "ROC",
         "begin": 62,
         "end": 65,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "Canal",
@@ -14557,13 +14557,13 @@
         "form": "Prestiga-Biz",
         "begin": 224,
         "end": 236,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "Prestiga-Biz",
         "begin": 237,
         "end": 249,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "Route",
@@ -14635,7 +14635,7 @@
         "form": "Ingénieur",
         "begin": 17,
         "end": 26,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "d",
@@ -14647,19 +14647,19 @@
         "form": "'",
         "begin": 28,
         "end": 29,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "Etudes",
         "begin": 29,
         "end": 35,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "en",
         "begin": 36,
         "end": 38,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "développement",
@@ -14689,7 +14689,7 @@
         "form": "s",
         "begin": 70,
         "end": 71,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Function"
       },
       {
         "form": "Galyan",
@@ -14911,7 +14911,7 @@
         "form": "(",
         "begin": 83,
         "end": 84,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "DSI",
@@ -14923,7 +14923,7 @@
         "form": ")",
         "begin": 87,
         "end": 88,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Phone_Number"
       },
       {
         "form": "Purity",
@@ -14989,7 +14989,7 @@
         "form": "cedex",
         "begin": 151,
         "end": 156,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Reference_CEDEX"
       },
       {
         "form": "(0)5.32.79.47.72",
@@ -15043,7 +15043,7 @@
         "form": "Cafeteria",
         "begin": 24,
         "end": 33,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "GESTIONNAIRE",
@@ -15061,7 +15061,7 @@
         "form": "07 86 21 39 32",
         "begin": 74,
         "end": 88,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Phone_Number"
       }
     ]
   },
@@ -15115,7 +15115,7 @@
         "form": "de",
         "begin": 48,
         "end": 50,
-        "label_bonzaiboost": "Project"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "plannification",
@@ -15133,7 +15133,7 @@
         "form": "de",
         "begin": 69,
         "end": 71,
-        "label_bonzaiboost": "Project"
+        "label_bonzaiboost": "Function"
       },
       {
         "form": "gestion",
@@ -15151,7 +15151,7 @@
         "form": "retards",
         "begin": 84,
         "end": 91,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Function"
       },
       {
         "form": "Multi-Systems",
@@ -15175,7 +15175,7 @@
         "form": "(0)4.75.07.43.67",
         "begin": 124,
         "end": 140,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Phone_Number"
       },
       {
         "form": "SebastienCailot@dayrep.com",
@@ -15367,7 +15367,7 @@
         "form": "(0)5 31 40 29 35",
         "begin": 123,
         "end": 139,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Phone_Number"
       },
       {
         "form": "GenericApps.fr",
@@ -15625,7 +15625,7 @@
         "form": "Skaggs-Alpha",
         "begin": 155,
         "end": 167,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Beta",
@@ -15637,7 +15637,7 @@
         "form": "RoyalPad.fr",
         "begin": 175,
         "end": 186,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Url"
       },
       {
         "form": "RoyalPad.fr",
@@ -15703,7 +15703,7 @@
         "form": "RoyalPad.fr",
         "begin": 267,
         "end": 278,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Url"
       },
       {
         "form": "Skaggs-Alpha",
@@ -15721,7 +15721,7 @@
         "form": "RoyalPad.fr",
         "begin": 324,
         "end": 335,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Url"
       }
     ]
   },
@@ -15943,31 +15943,31 @@
         "form": "de",
         "begin": 22,
         "end": 24,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Function"
       },
       {
         "form": "Recrutement",
         "begin": 25,
         "end": 36,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "et",
         "begin": 37,
         "end": 39,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "Gestion",
         "begin": 40,
         "end": 47,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "Administrative",
         "begin": 48,
         "end": 62,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "(0)6 66 05 06 18",
@@ -16027,13 +16027,13 @@
         "form": "Channing",
         "begin": 18,
         "end": 26,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Cantin",
         "begin": 27,
         "end": 33,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Notaires",
@@ -16075,13 +16075,13 @@
         "form": "(0)3.72.34.99.88",
         "begin": 90,
         "end": 106,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Phone_Number"
       },
       {
         "form": "07 81 26 76 39",
         "begin": 113,
         "end": 127,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Phone_Number"
       },
       {
         "form": "39",
@@ -16123,7 +16123,7 @@
         "form": "(0)7.88.09.47.78",
         "begin": 193,
         "end": 209,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Phone_Number"
       },
       {
         "form": "02 77 97 40 26",
@@ -16165,7 +16165,7 @@
         "form": "déléguée",
         "begin": 33,
         "end": 41,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "Ingénierie",
@@ -16399,13 +16399,13 @@
         "form": "Assistante",
         "begin": 13,
         "end": 23,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Function"
       },
       {
         "form": "Administrative",
         "begin": 24,
         "end": 38,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Function"
       },
       {
         "form": "Tam",
@@ -16525,7 +16525,7 @@
         "form": "07 51 77 43 67",
         "begin": 163,
         "end": 177,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Phone_Number"
       },
       {
         "form": "+33.01.80.54.32.23",
@@ -16687,7 +16687,7 @@
         "form": "01 70 56 49 19",
         "begin": 146,
         "end": 160,
-        "label_bonzaiboost": "Phone_Number"
+        "label_bonzaiboost": "Reference_CEDEX"
       },
       {
         "form": "GabrielleDeschenes@dayrep.com",
@@ -16981,7 +16981,7 @@
         "form": "-",
         "begin": 24,
         "end": 25,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Location",
@@ -17047,7 +17047,7 @@
         "form": "(0)3.62.30.31.63",
         "begin": 88,
         "end": 104,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Phone_Number"
       }
     ]
   },
@@ -17143,7 +17143,7 @@
         "form": "marché",
         "begin": 36,
         "end": 42,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "privé",
@@ -17383,7 +17383,7 @@
         "form": "04 56 88 87 63",
         "begin": 70,
         "end": 84,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Phone_Number"
       },
       {
         "form": "+33.(0)1.48.22.70.33",
@@ -17455,7 +17455,7 @@
         "form": "(0)4.84.73.50.37",
         "begin": 61,
         "end": 77,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Phone_Number"
       },
       {
         "form": "NicholasPoisson@teleworm.us",
@@ -17473,7 +17473,7 @@
         "form": "&",
         "begin": 116,
         "end": 117,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Towne",
@@ -17599,7 +17599,7 @@
         "form": "01 41 10 19 90",
         "begin": 6,
         "end": 20,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Phone_Number"
       },
       {
         "form": "06 07 00 75 83",
@@ -17641,7 +17641,7 @@
         "form": "+33 (0)1 55 13 68 52",
         "begin": 45,
         "end": 65,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Phone_Number"
       },
       {
         "form": "G",
@@ -17749,7 +17749,7 @@
         "form": "Cedex",
         "begin": 161,
         "end": 166,
-        "label_bonzaiboost": "Reference_CEDEX"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "37",
@@ -17845,7 +17845,7 @@
         "form": "/",
         "begin": 38,
         "end": 39,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "BIRD",
@@ -17923,7 +17923,7 @@
         "form": "Manager",
         "begin": 43,
         "end": 50,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Function"
       },
       {
         "form": "+33.07.84.31.42.25",
@@ -17971,7 +17971,7 @@
         "form": "(0)2.63.13.22.16",
         "begin": 86,
         "end": 102,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Phone_Number"
       }
     ]
   },
@@ -18109,7 +18109,7 @@
         "form": "Place",
         "begin": 32,
         "end": 37,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "des",
@@ -18139,7 +18139,7 @@
         "form": "résistance",
         "begin": 56,
         "end": 66,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "34000",
@@ -18319,13 +18319,13 @@
         "form": "53",
         "begin": 95,
         "end": 97,
-        "label_bonzaiboost": "Reference_CEDEX"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "France",
         "begin": 100,
         "end": 106,
-        "label_bonzaiboost": "Reference_CEDEX"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "01 80 42 41 30",
@@ -18625,13 +18625,13 @@
         "form": "des",
         "begin": 42,
         "end": 45,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Function"
       },
       {
         "form": "spcéifications",
         "begin": 46,
         "end": 60,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Function"
       },
       {
         "form": ",",
@@ -18685,7 +18685,7 @@
         "form": "(0)3.82.01.41.74",
         "begin": 124,
         "end": 140,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Phone_Number"
       },
       {
         "form": "ARMAlert.fr",
@@ -18709,19 +18709,19 @@
         "form": "Parc",
         "begin": 171,
         "end": 175,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Function"
       },
       {
         "form": "scientifique",
         "begin": 176,
         "end": 188,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Function"
       },
       {
         "form": "Agropolis",
         "begin": 189,
         "end": 198,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Function"
       },
       {
         "form": "2-",
@@ -18739,13 +18739,13 @@
         "form": "6",
         "begin": 206,
         "end": 207,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "91",
         "begin": 208,
         "end": 210,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "boulevard",
@@ -19099,7 +19099,7 @@
         "form": "expérimentaux",
         "begin": 34,
         "end": 47,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "01 39 00 42 01",
@@ -19111,7 +19111,7 @@
         "form": "(0)7.80.91.87.55",
         "begin": 77,
         "end": 93,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Phone_Number"
       },
       {
         "form": "TireRentals.fr",
@@ -19363,25 +19363,25 @@
         "form": "Bumper",
         "begin": 104,
         "end": 110,
-        "label_bonzaiboost": "Project"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "to",
         "begin": 111,
         "end": 113,
-        "label_bonzaiboost": "Project"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "Bumper",
         "begin": 114,
         "end": 120,
-        "label_bonzaiboost": "Project"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "Auto",
         "begin": 121,
         "end": 125,
-        "label_bonzaiboost": "Project"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "Parts",
@@ -19393,25 +19393,25 @@
         "form": "Bumper",
         "begin": 132,
         "end": 138,
-        "label_bonzaiboost": "Project"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "to",
         "begin": 139,
         "end": 141,
-        "label_bonzaiboost": "Project"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "Bumper",
         "begin": 142,
         "end": 148,
-        "label_bonzaiboost": "Project"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "Auto",
         "begin": 149,
         "end": 153,
-        "label_bonzaiboost": "Project"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "Parts",
@@ -19423,25 +19423,25 @@
         "form": "Bumper",
         "begin": 160,
         "end": 166,
-        "label_bonzaiboost": "Project"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "to",
         "begin": 167,
         "end": 169,
-        "label_bonzaiboost": "Project"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "Bumper",
         "begin": 170,
         "end": 176,
-        "label_bonzaiboost": "Project"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "Auto",
         "begin": 177,
         "end": 181,
-        "label_bonzaiboost": "Project"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "Parts",
@@ -19453,7 +19453,7 @@
         "form": "Pyramide",
         "begin": 188,
         "end": 196,
-        "label_bonzaiboost": "Project"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "–",
@@ -19465,7 +19465,7 @@
         "form": "Tour",
         "begin": 199,
         "end": 203,
-        "label_bonzaiboost": "Project"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "55",
@@ -19489,7 +19489,7 @@
         "form": "Jussieu",
         "begin": 234,
         "end": 241,
-        "label_bonzaiboost": "Project"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "59110",
@@ -19519,7 +19519,7 @@
         "form": "FRANCE",
         "begin": 264,
         "end": 270,
-        "label_bonzaiboost": "Reference_CEDEX"
+        "label_bonzaiboost": "Reference_CS"
       },
       {
         "form": "+33 01 47 71 09 23",
@@ -19687,7 +19687,7 @@
         "form": "(0)6.66.70.26.49",
         "begin": 37,
         "end": 53,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Phone_Number"
       }
     ]
   },
@@ -20017,7 +20017,7 @@
         "form": "'",
         "begin": 27,
         "end": 28,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "Opérations",
@@ -20209,7 +20209,7 @@
         "form": "Bataillon",
         "begin": 237,
         "end": 246,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "17000",
@@ -20371,7 +20371,7 @@
         "form": "(0)2 35 07 81 69",
         "begin": 76,
         "end": 92,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Reference_CEDEX"
       },
       {
         "form": "StealthIdea.fr",
@@ -20701,19 +20701,19 @@
         "form": "'",
         "begin": 228,
         "end": 229,
-        "label_bonzaiboost": "Project"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "s",
         "begin": 229,
         "end": 230,
-        "label_bonzaiboost": "Project"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "Coffee",
         "begin": 231,
         "end": 237,
-        "label_bonzaiboost": "Project"
+        "label_bonzaiboost": "Organization"
       }
     ]
   },
@@ -21091,7 +21091,7 @@
         "form": "07 52 10 14 30",
         "begin": 88,
         "end": 102,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Phone_Number"
       },
       {
         "form": "9",
@@ -21463,7 +21463,7 @@
         "form": "1",
         "begin": 39,
         "end": 40,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Chemin",
@@ -21475,13 +21475,13 @@
         "form": "de",
         "begin": 48,
         "end": 50,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "la",
         "begin": 51,
         "end": 53,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Sucrerie",
@@ -21631,7 +21631,7 @@
         "form": "(0)5.18.30.37.20",
         "begin": 23,
         "end": 39,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Phone_Number"
       },
       {
         "form": "Big",
@@ -21835,13 +21835,13 @@
         "form": "'",
         "begin": 27,
         "end": 28,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "unité",
         "begin": 28,
         "end": 33,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Function"
       },
       {
         "form": "MARS",
@@ -21859,13 +21859,13 @@
         "form": "conseiller",
         "begin": 41,
         "end": 51,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "d",
         "begin": 52,
         "end": 53,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "'",
@@ -21877,7 +21877,7 @@
         "form": "études",
         "begin": 54,
         "end": 60,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Thorofare",
@@ -22135,7 +22135,7 @@
         "form": "&",
         "begin": 60,
         "end": 61,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Tapes",
@@ -22159,7 +22159,7 @@
         "form": "&",
         "begin": 99,
         "end": 100,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Tapes",
@@ -22291,7 +22291,7 @@
         "form": ",",
         "begin": 37,
         "end": 38,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "route",
@@ -22303,49 +22303,49 @@
         "form": "des",
         "begin": 45,
         "end": 48,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Lucioles",
         "begin": 49,
         "end": 57,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Les",
         "begin": 58,
         "end": 61,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Algorithmes",
         "begin": 62,
         "end": 73,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Thalès",
         "begin": 74,
         "end": 80,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "B",
         "begin": 81,
         "end": 82,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "06",
         "begin": 83,
         "end": 85,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "410",
         "begin": 86,
         "end": 89,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Biot",
@@ -22369,7 +22369,7 @@
         "form": "07 78 86 44 34",
         "begin": 117,
         "end": 131,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Phone_Number"
       }
     ]
   },
@@ -22423,49 +22423,49 @@
         "form": "Cadieux",
         "begin": 24,
         "end": 31,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "Chargée",
         "begin": 32,
         "end": 39,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Function"
       },
       {
         "form": "de",
         "begin": 40,
         "end": 42,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Function"
       },
       {
         "form": "la",
         "begin": 43,
         "end": 45,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Function"
       },
       {
         "form": "Logistique",
         "begin": 46,
         "end": 56,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Function"
       },
       {
         "form": "et",
         "begin": 57,
         "end": 59,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Function"
       },
       {
         "form": "Gestion",
         "begin": 60,
         "end": 67,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Function"
       },
       {
         "form": "Location",
         "begin": 68,
         "end": 76,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Function"
       },
       {
         "form": "Builders",
@@ -22495,55 +22495,55 @@
         "form": "Direction",
         "begin": 109,
         "end": 118,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Function"
       },
       {
         "form": "de",
         "begin": 119,
         "end": 121,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Function"
       },
       {
         "form": "la",
         "begin": 122,
         "end": 124,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Function"
       },
       {
         "form": "Conception",
         "begin": 125,
         "end": 135,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Function"
       },
       {
         "form": "Economique",
         "begin": 136,
         "end": 146,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Function"
       },
       {
         "form": "et",
         "begin": 147,
         "end": 149,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Function"
       },
       {
         "form": "de",
         "begin": 150,
         "end": 152,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Function"
       },
       {
         "form": "la",
         "begin": 153,
         "end": 155,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Function"
       },
       {
         "form": "Société",
         "begin": 156,
         "end": 163,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Function"
       },
       {
         "form": "04 71 20 07 00",
@@ -22675,13 +22675,13 @@
         "form": "92",
         "begin": 231,
         "end": 233,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "380",
         "begin": 234,
         "end": 237,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Garches",
@@ -22777,7 +22777,7 @@
         "form": "(0)7 83 66 28 00",
         "begin": 64,
         "end": 80,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Phone_Number"
       },
       {
         "form": "VerrillGiroux@dayrep.com",
@@ -22807,7 +22807,7 @@
         "form": "DuLin",
         "begin": 21,
         "end": 26,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Function"
       },
       {
         "form": "Mavise",
@@ -22819,7 +22819,7 @@
         "form": "DuLin",
         "begin": 35,
         "end": 40,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Function"
       },
       {
         "form": "Mavise",
@@ -22831,19 +22831,19 @@
         "form": "DuLin",
         "begin": 49,
         "end": 54,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Function"
       },
       {
         "form": "Mavise",
         "begin": 60,
         "end": 66,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Function"
       },
       {
         "form": "DuLin",
         "begin": 67,
         "end": 72,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Function"
       },
       {
         "form": "AMFR",
@@ -23017,7 +23017,7 @@
         "form": "06 49 92 17 22",
         "begin": 154,
         "end": 168,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Phone_Number"
       }
     ]
   },
@@ -23041,37 +23041,37 @@
         "form": "Responsable",
         "begin": 20,
         "end": 31,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "d",
         "begin": 32,
         "end": 33,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "'",
         "begin": 33,
         "end": 34,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "exploitation",
         "begin": 34,
         "end": 46,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Operations",
         "begin": 49,
         "end": 59,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "manager",
         "begin": 60,
         "end": 67,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "GiffordPerillard@rhyta.com",
@@ -23083,19 +23083,19 @@
         "form": "07 71 47 44 60",
         "begin": 101,
         "end": 115,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Phone_Number"
       },
       {
         "form": "Susie",
         "begin": 117,
         "end": 122,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "'",
         "begin": 122,
         "end": 123,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Phone_Number"
       },
       {
         "form": "s",
@@ -23113,19 +23113,19 @@
         "form": "GeoTaste.fr",
         "begin": 136,
         "end": 147,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Url"
       },
       {
         "form": "Espace",
         "begin": 148,
         "end": 154,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Géant",
         "begin": 155,
         "end": 160,
-        "label_bonzaiboost": "Phone_Number"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "24",
@@ -23137,7 +23137,7 @@
         "form": "avenue",
         "begin": 164,
         "end": 170,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Jean",
@@ -23563,7 +23563,7 @@
         "form": "(0)4 34 23 83 65",
         "begin": 69,
         "end": 85,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Phone_Number"
       }
     ]
   },
@@ -23827,7 +23827,7 @@
         "form": "06 98 81 86 13",
         "begin": 176,
         "end": 190,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Reference_CEDEX"
       },
       {
         "form": "SeniorFrancoeur@dayrep.com",
@@ -24403,13 +24403,13 @@
         "form": "2/F",
         "begin": 32,
         "end": 35,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Function"
       },
       {
         "form": ",",
         "begin": 35,
         "end": 36,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Building",
@@ -24427,19 +24427,19 @@
         "form": ",",
         "begin": 47,
         "end": 48,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "No",
         "begin": 49,
         "end": 51,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": ".",
         "begin": 51,
         "end": 52,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "5",
@@ -24451,7 +24451,7 @@
         "form": ",",
         "begin": 54,
         "end": 55,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "2nd",
@@ -24463,7 +24463,7 @@
         "form": "St",
         "begin": 60,
         "end": 62,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": ".",
@@ -24475,25 +24475,25 @@
         "form": ",",
         "begin": 63,
         "end": 64,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Wentang",
         "begin": 65,
         "end": 72,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Hengling",
         "begin": 73,
         "end": 81,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Industrial",
         "begin": 82,
         "end": 92,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Area",
@@ -24505,7 +24505,7 @@
         "form": "Dongcheng",
         "begin": 99,
         "end": 108,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "District",
@@ -24529,7 +24529,7 @@
         "form": "China",
         "begin": 140,
         "end": 145,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Function"
       },
       {
         "form": "AmabellaBedard@jourrapide.com",
@@ -24613,7 +24613,7 @@
         "form": "Coach-Expert",
         "begin": 17,
         "end": 29,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "26",
@@ -24685,13 +24685,13 @@
         "form": "Handy",
         "begin": 18,
         "end": 23,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Function"
       },
       {
         "form": "Dan",
         "begin": 24,
         "end": 27,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Function"
       },
       {
         "form": "425",
@@ -24703,7 +24703,7 @@
         "form": "rue",
         "begin": 34,
         "end": 37,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Alfred",
@@ -24781,7 +24781,7 @@
         "form": "'",
         "begin": 44,
         "end": 45,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Booth",
@@ -24841,7 +24841,7 @@
         "form": "counselor",
         "begin": 116,
         "end": 125,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Project"
       },
       {
         "form": "PopJudge.fr",
@@ -24871,13 +24871,13 @@
         "form": "Listenin",
         "begin": 155,
         "end": 163,
-        "label_bonzaiboost": "Project"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "'",
         "begin": 163,
         "end": 164,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Project"
       },
       {
         "form": "Booth",
@@ -24895,7 +24895,7 @@
         "form": "'",
         "begin": 179,
         "end": 180,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Project"
       },
       {
         "form": "Booth",
@@ -24919,7 +24919,7 @@
         "form": "Booth",
         "begin": 203,
         "end": 208,
-        "label_bonzaiboost": "Project"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "PopJudge.fr",
@@ -25465,7 +25465,7 @@
         "form": "Cap",
         "begin": 71,
         "end": 74,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "Oméga",
@@ -25477,7 +25477,7 @@
         "form": "Rond-point",
         "begin": 81,
         "end": 91,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "Benjamin",
@@ -25645,7 +25645,7 @@
         "form": "Eugène",
         "begin": 159,
         "end": 165,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Bataillon",
@@ -25705,7 +25705,7 @@
         "form": "Administrateur",
         "begin": 20,
         "end": 34,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "Système",
@@ -25717,7 +25717,7 @@
         "form": "et",
         "begin": 43,
         "end": 45,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "Réseau",
@@ -25783,7 +25783,7 @@
         "form": "Cedex",
         "begin": 136,
         "end": 141,
-        "label_bonzaiboost": "Reference_CEDEX"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "41",
@@ -25939,7 +25939,7 @@
         "form": "Web",
         "begin": 36,
         "end": 39,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Function"
       },
       {
         "form": "–",
@@ -25957,13 +25957,13 @@
         "form": "Brendle",
         "begin": 46,
         "end": 53,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Function"
       },
       {
         "form": "'",
         "begin": 53,
         "end": 54,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "s",
@@ -26281,13 +26281,13 @@
         "form": "Club",
         "begin": 66,
         "end": 70,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": ",",
         "begin": 70,
         "end": 71,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Inc",
@@ -26299,7 +26299,7 @@
         "form": ".",
         "begin": 75,
         "end": 76,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "Berlin",
@@ -26407,7 +26407,7 @@
         "form": "l’Europe",
         "begin": 119,
         "end": 127,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "47050",
@@ -26629,7 +26629,7 @@
         "form": "Directeur",
         "begin": 12,
         "end": 21,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "de",
@@ -26893,13 +26893,13 @@
         "form": "Développeur",
         "begin": 21,
         "end": 32,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Developer",
         "begin": 35,
         "end": 44,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "ChristelleLamothe@dayrep.com",
@@ -26911,7 +26911,7 @@
         "form": "04.74.21.14.83",
         "begin": 81,
         "end": 95,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "LoRay",
@@ -26923,7 +26923,7 @@
         "form": "PressAssistant.fr",
         "begin": 106,
         "end": 123,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Espace",
@@ -27007,7 +27007,7 @@
         "form": "de",
         "begin": 26,
         "end": 28,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "mission",
@@ -27055,7 +27055,7 @@
         "form": ".",
         "begin": 61,
         "end": 62,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Innovation",
@@ -27127,7 +27127,7 @@
         "form": "Université",
         "begin": 27,
         "end": 37,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Function"
       },
       {
         "form": "member",
@@ -27271,7 +27271,7 @@
         "form": "Gestionnaire",
         "begin": 16,
         "end": 28,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Function"
       },
       {
         "form": "de",
@@ -27295,13 +27295,13 @@
         "form": "Hamady",
         "begin": 50,
         "end": 56,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Function"
       },
       {
         "form": "Bros",
         "begin": 57,
         "end": 61,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Function"
       },
       {
         "form": ".",
@@ -27313,7 +27313,7 @@
         "form": "Supermarkets",
         "begin": 63,
         "end": 75,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Function"
       },
       {
         "form": "MerciChicoine@jourrapide.com",
@@ -27427,13 +27427,13 @@
         "form": "Responsable",
         "begin": 18,
         "end": 29,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Marketing",
         "begin": 30,
         "end": 39,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "&",
@@ -27457,7 +27457,7 @@
         "form": "06 48 19 38 94",
         "begin": 86,
         "end": 100,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Phone_Number"
       }
     ]
   },
@@ -27583,7 +27583,7 @@
         "form": "135",
         "begin": 55,
         "end": 58,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "av",
@@ -27601,13 +27601,13 @@
         "form": "de",
         "begin": 63,
         "end": 65,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Rangueil",
         "begin": 66,
         "end": 74,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "02 33 25 54 88",
@@ -27631,7 +27631,7 @@
         "form": "Cedex",
         "begin": 109,
         "end": 114,
-        "label_bonzaiboost": "Reference_CEDEX"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "56",
@@ -27649,7 +27649,7 @@
         "form": "+33 03 70 78 84 38",
         "begin": 131,
         "end": 149,
-        "label_bonzaiboost": "Reference_CEDEX"
+        "label_bonzaiboost": "Phone_Number"
       }
     ]
   },
@@ -27739,7 +27739,7 @@
         "form": "(0)4 22 71 28 06",
         "begin": 115,
         "end": 131,
-        "label_bonzaiboost": "Phone_Number"
+        "label_bonzaiboost": "Location"
       }
     ]
   },
@@ -27769,7 +27769,7 @@
         "form": "des",
         "begin": 24,
         "end": 27,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "systèmes",
@@ -27781,13 +27781,13 @@
         "form": "d",
         "begin": 37,
         "end": 38,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "'",
         "begin": 38,
         "end": 39,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "Information",
@@ -27847,13 +27847,13 @@
         "form": "des",
         "begin": 113,
         "end": 116,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Function"
       },
       {
         "form": "Systèmes",
         "begin": 117,
         "end": 125,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Function"
       },
       {
         "form": "d’Information",
@@ -27961,7 +27961,7 @@
         "form": "d’entreprises",
         "begin": 49,
         "end": 62,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "innovantes",
@@ -27985,7 +27985,7 @@
         "form": "Montpellier",
         "begin": 92,
         "end": 103,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "Wise",
@@ -28039,25 +28039,25 @@
         "form": "Testeur",
         "begin": 17,
         "end": 24,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "logiciel",
         "begin": 25,
         "end": 33,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Software",
         "begin": 36,
         "end": 44,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "tester",
         "begin": 45,
         "end": 51,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "GustaveLaisne@rhyta.com",
@@ -28093,19 +28093,19 @@
         "form": "PreTans.fr",
         "begin": 118,
         "end": 128,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Url"
       },
       {
         "form": "Espace",
         "begin": 129,
         "end": 135,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Géant",
         "begin": 136,
         "end": 141,
-        "label_bonzaiboost": "Phone_Number"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "24",
@@ -28117,7 +28117,7 @@
         "form": "avenue",
         "begin": 145,
         "end": 151,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Jean",
@@ -28183,13 +28183,13 @@
         "form": "C",
         "begin": 42,
         "end": 43,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": ".",
         "begin": 43,
         "end": 44,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Project"
       },
       {
         "form": "A",
@@ -28201,7 +28201,7 @@
         "form": ".",
         "begin": 45,
         "end": 46,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Project"
       },
       {
         "form": "F",
@@ -28213,7 +28213,7 @@
         "form": ".",
         "begin": 47,
         "end": 48,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Project"
       },
       {
         "form": "S",
@@ -28225,7 +28225,7 @@
         "form": ".",
         "begin": 49,
         "end": 50,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Project"
       },
       {
         "form": "Megatronic",
@@ -28519,13 +28519,13 @@
         "form": "Directeur",
         "begin": 15,
         "end": 24,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "des",
         "begin": 25,
         "end": 28,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "systèmes",
@@ -28543,7 +28543,7 @@
         "form": "'",
         "begin": 39,
         "end": 40,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "information",
@@ -28579,13 +28579,13 @@
         "form": "des",
         "begin": 79,
         "end": 82,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Function"
       },
       {
         "form": "systèmes",
         "begin": 83,
         "end": 91,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Function"
       },
       {
         "form": "d",
@@ -28603,7 +28603,7 @@
         "form": "information",
         "begin": 94,
         "end": 105,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Function"
       },
       {
         "form": "Music",
@@ -28669,7 +28669,7 @@
         "form": "Cedex",
         "begin": 156,
         "end": 161,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Reference_CEDEX"
       },
       {
         "form": "+33 05 58 51 94 16",
@@ -28867,7 +28867,7 @@
         "form": "–",
         "begin": 51,
         "end": 52,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Bât",
@@ -28879,7 +28879,7 @@
         "form": "E2/E3",
         "begin": 57,
         "end": 62,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "76100",
@@ -28951,7 +28951,7 @@
         "form": "restauration",
         "begin": 38,
         "end": 50,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "GasparLongpre@teleworm.us",
@@ -28987,49 +28987,49 @@
         "form": "Chargé",
         "begin": 18,
         "end": 24,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "de",
         "begin": 25,
         "end": 27,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "mission",
         "begin": 28,
         "end": 35,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Découverte",
         "begin": 36,
         "end": 46,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": ",",
         "begin": 46,
         "end": 47,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Accès",
         "begin": 48,
         "end": 53,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Numérique",
         "begin": 54,
         "end": 63,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "&",
         "begin": 64,
         "end": 65,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Systèmes",
@@ -29071,7 +29071,7 @@
         "form": "Advisor",
         "begin": 118,
         "end": 125,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Function"
       },
       {
         "form": "Member",
@@ -29143,7 +29143,7 @@
         "form": "Pyrénées-Méditerranée",
         "begin": 195,
         "end": 216,
-        "label_bonzaiboost": "Phone_Number"
+        "label_bonzaiboost": "Email"
       },
       {
         "form": "Grand",
@@ -29281,25 +29281,25 @@
         "form": "Chargée",
         "begin": 15,
         "end": 22,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Function"
       },
       {
         "form": "de",
         "begin": 23,
         "end": 25,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Function"
       },
       {
         "form": "clientèle",
         "begin": 26,
         "end": 35,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Function"
       },
       {
         "form": "07 86 41 85 14",
         "begin": 36,
         "end": 50,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Phone_Number"
       },
       {
         "form": "JayCinq-Mars@rhyta.com",
@@ -29371,7 +29371,7 @@
         "form": "Biologie",
         "begin": 80,
         "end": 88,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "moléculaire",
@@ -29545,7 +29545,7 @@
         "form": "(",
         "begin": 90,
         "end": 91,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Phone_Number"
       },
       {
         "form": "7ème",
@@ -29563,7 +29563,7 @@
         "form": ")",
         "begin": 101,
         "end": 102,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Phone_Number"
       },
       {
         "form": "ManvilleLachapelle@dayrep.com",
@@ -29671,19 +29671,19 @@
         "form": "Commerciale",
         "begin": 18,
         "end": 29,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Sales",
         "begin": 32,
         "end": 37,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Representative",
         "begin": 38,
         "end": 52,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "DexterDesilets@rhyta.com",
@@ -29713,19 +29713,19 @@
         "form": "ByeBankruptcy.fr",
         "begin": 117,
         "end": 133,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Url"
       },
       {
         "form": "Espace",
         "begin": 134,
         "end": 140,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Géant",
         "begin": 141,
         "end": 146,
-        "label_bonzaiboost": "Phone_Number"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "24",
@@ -29737,7 +29737,7 @@
         "form": "avenue",
         "begin": 150,
         "end": 156,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Jean",
@@ -29977,19 +29977,19 @@
         "form": "DiabeticRestaurants.fr",
         "begin": 117,
         "end": 139,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Url"
       },
       {
         "form": "Espace",
         "begin": 140,
         "end": 146,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Géant",
         "begin": 147,
         "end": 152,
-        "label_bonzaiboost": "Phone_Number"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "24",
@@ -30001,7 +30001,7 @@
         "form": "avenue",
         "begin": 156,
         "end": 162,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Jean",
@@ -30103,7 +30103,7 @@
         "form": "Leader",
         "begin": 79,
         "end": 85,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "RI",
@@ -30133,7 +30133,7 @@
         "form": "Jacobs",
         "begin": 114,
         "end": 120,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "Jay",
@@ -30355,7 +30355,7 @@
         "form": "07 87 35 95 20",
         "begin": 136,
         "end": 150,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Phone_Number"
       },
       {
         "form": "01.60.38.56.71",
@@ -30391,13 +30391,13 @@
         "form": "Responsable",
         "begin": 17,
         "end": 28,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Function"
       },
       {
         "form": "administratif",
         "begin": 29,
         "end": 42,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Function"
       },
       {
         "form": "04.42.57.41.12",
@@ -30433,7 +30433,7 @@
         "form": "Place",
         "begin": 111,
         "end": 116,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "Eugène",
@@ -30541,7 +30541,7 @@
         "form": "Comptable",
         "begin": 12,
         "end": 21,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "Gestion",
@@ -30565,7 +30565,7 @@
         "form": ".",
         "begin": 42,
         "end": 43,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "Samuels",
@@ -30595,7 +30595,7 @@
         "form": "Clothiers",
         "begin": 58,
         "end": 67,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Function"
       },
       {
         "form": "FitzSalois@jourrapide.com",
@@ -30853,13 +30853,13 @@
         "form": "03 85 04 20 45",
         "begin": 107,
         "end": 121,
-        "label_bonzaiboost": "Phone_Number"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "06 43 86 54 49",
         "begin": 128,
         "end": 142,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Phone_Number"
       },
       {
         "form": "62",
@@ -30997,25 +30997,25 @@
         "form": "1",
         "begin": 45,
         "end": 46,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Chemin",
         "begin": 47,
         "end": 53,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "de",
         "begin": 54,
         "end": 56,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "la",
         "begin": 57,
         "end": 59,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Sucrerie",
@@ -31189,13 +31189,13 @@
         "form": "3",
         "begin": 23,
         "end": 24,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Opération",
         "begin": 25,
         "end": 34,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Communication",
@@ -31705,19 +31705,19 @@
         "form": "Gestion",
         "begin": 29,
         "end": 36,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Function"
       },
       {
         "form": "Location",
         "begin": 37,
         "end": 45,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Function"
       },
       {
         "form": "Prospa-Pal",
         "begin": 49,
         "end": 59,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Prospa-Pal",
@@ -31729,7 +31729,7 @@
         "form": "53",
         "begin": 74,
         "end": 76,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Place",
@@ -31819,7 +31819,7 @@
         "form": "&",
         "begin": 70,
         "end": 71,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Phone_Number"
       },
       {
         "form": "Barry",
@@ -31957,13 +31957,13 @@
         "form": "Site",
         "begin": 72,
         "end": 76,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Function"
       },
       {
         "form": "de",
         "begin": 77,
         "end": 79,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Function"
       },
       {
         "form": "Toulouse",
@@ -32191,13 +32191,13 @@
         "form": "'",
         "begin": 30,
         "end": 31,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "IMAC",
         "begin": 31,
         "end": 35,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Function"
       },
       {
         "form": "Maître",
@@ -32251,7 +32251,7 @@
         "form": "'",
         "begin": 86,
         "end": 87,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "Industrie",
@@ -32509,7 +32509,7 @@
         "form": "Responsable",
         "begin": 42,
         "end": 53,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Function"
       },
       {
         "form": "du",
@@ -32521,13 +32521,13 @@
         "form": "pôle",
         "begin": 57,
         "end": 61,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Function"
       },
       {
         "form": "reconversion",
         "begin": 62,
         "end": 74,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Function"
       },
       {
         "form": "MarietteCaisse@dayrep.com",
@@ -32539,7 +32539,7 @@
         "form": "6",
         "begin": 153,
         "end": 154,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "cité",
@@ -32551,7 +32551,7 @@
         "form": "de",
         "begin": 160,
         "end": 162,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "l’ameublement",
@@ -32683,7 +32683,7 @@
         "form": "Bocaud",
         "begin": 159,
         "end": 165,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "42",
@@ -32761,7 +32761,7 @@
         "form": "Archiviste",
         "begin": 19,
         "end": 29,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "VIROFLAY",
@@ -32779,7 +32779,7 @@
         "form": "VERSAILLES",
         "begin": 149,
         "end": 159,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Project"
       },
       {
         "form": "ThisTune.fr",
@@ -32827,13 +32827,13 @@
         "form": "responsable",
         "begin": 47,
         "end": 58,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "B2i-niveau",
         "begin": 59,
         "end": 69,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "4",
@@ -32845,13 +32845,13 @@
         "form": "Tower",
         "begin": 77,
         "end": 82,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "Records",
         "begin": 83,
         "end": 90,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "Paris",
@@ -33013,25 +33013,25 @@
         "form": "Support",
         "begin": 16,
         "end": 23,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "technique",
         "begin": 24,
         "end": 33,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Technical",
         "begin": 36,
         "end": 45,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "support",
         "begin": 46,
         "end": 53,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "PerrinLanoie@jourrapide.com",
@@ -33043,7 +33043,7 @@
         "form": "03.84.92.53.33",
         "begin": 92,
         "end": 106,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Dun",
@@ -33073,7 +33073,7 @@
         "form": "PopularScape.fr",
         "begin": 137,
         "end": 152,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Espace",
@@ -33175,7 +33175,7 @@
         "form": "27",
         "begin": 83,
         "end": 85,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "bis",
@@ -33199,7 +33199,7 @@
         "form": "Jaurès",
         "begin": 102,
         "end": 108,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "95150",
@@ -33379,7 +33379,7 @@
         "form": "07 82 49 95 55",
         "begin": 79,
         "end": 93,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Phone_Number"
       }
     ]
   },
@@ -33475,13 +33475,13 @@
         "form": "118",
         "begin": 102,
         "end": 105,
-        "label_bonzaiboost": "Project"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": ",",
         "begin": 105,
         "end": 106,
-        "label_bonzaiboost": "Project"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "route",
@@ -33493,13 +33493,13 @@
         "form": "de",
         "begin": 113,
         "end": 115,
-        "label_bonzaiboost": "Project"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Narbonne",
         "begin": 116,
         "end": 124,
-        "label_bonzaiboost": "Project"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "06100",
@@ -33841,7 +33841,7 @@
         "form": "Ambra",
         "begin": 1,
         "end": 6,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Busson",
@@ -33853,19 +33853,19 @@
         "form": "Infographiste",
         "begin": 17,
         "end": 30,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Graphic",
         "begin": 33,
         "end": 40,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "designer",
         "begin": 41,
         "end": 49,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "AmbraBusson@armyspy.com",
@@ -33877,25 +33877,25 @@
         "form": "+33 03 73 36 14 64",
         "begin": 81,
         "end": 99,
-        "label_bonzaiboost": "Phone_Number"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Cuppy",
         "begin": 101,
         "end": 106,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "'",
         "begin": 106,
         "end": 107,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "s",
         "begin": 107,
         "end": 108,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Coffee",
@@ -33907,7 +33907,7 @@
         "form": "PodYou.fr",
         "begin": 119,
         "end": 128,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Espace",
@@ -34051,13 +34051,13 @@
         "form": "+33.(0)4.65.95.42.08",
         "begin": 31,
         "end": 51,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Phone_Number"
       },
       {
         "form": "07 59 77 83 98",
         "begin": 63,
         "end": 77,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Phone_Number"
       }
     ]
   },
@@ -34081,13 +34081,13 @@
         "form": "Direction",
         "begin": 17,
         "end": 26,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "financière",
         "begin": 27,
         "end": 37,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "DidianeMarier@rhyta.com",
@@ -34099,7 +34099,7 @@
         "form": "06 95 42 58 90",
         "begin": 74,
         "end": 88,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Phone_Number"
       },
       {
         "form": "Total",
@@ -34123,19 +34123,19 @@
         "form": "TopDiscussions.fr",
         "begin": 113,
         "end": 130,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Url"
       },
       {
         "form": "Espace",
         "begin": 131,
         "end": 137,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Géant",
         "begin": 138,
         "end": 143,
-        "label_bonzaiboost": "Phone_Number"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "24",
@@ -34147,7 +34147,7 @@
         "form": "avenue",
         "begin": 147,
         "end": 153,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Jean",
@@ -34519,31 +34519,31 @@
         "form": "07 70 55 20 21",
         "begin": 29,
         "end": 43,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "+33 05 59 23 04 63",
         "begin": 52,
         "end": 70,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Britches",
         "begin": 71,
         "end": 79,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "of",
         "begin": 80,
         "end": 82,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Georgetown",
         "begin": 83,
         "end": 93,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "AnalystBot.fr",
@@ -34597,7 +34597,7 @@
         "form": "Abainville",
         "begin": 151,
         "end": 161,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       }
     ]
   },
@@ -34771,7 +34771,7 @@
         "form": "03 45 56 00 67",
         "begin": 77,
         "end": 91,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Phone_Number"
       },
       {
         "form": "02 34 99 06 49",
@@ -34813,25 +34813,25 @@
         "form": "Rond",
         "begin": 153,
         "end": 157,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Project"
       },
       {
         "form": "Point",
         "begin": 158,
         "end": 163,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Project"
       },
       {
         "form": "Benjamin",
         "begin": 164,
         "end": 172,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Project"
       },
       {
         "form": "Franklin",
         "begin": 173,
         "end": 181,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Project"
       },
       {
         "form": "35500",
@@ -35017,7 +35017,7 @@
         "form": "s",
         "begin": 32,
         "end": 33,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Function"
       },
       {
         "form": "45",
@@ -35137,13 +35137,13 @@
         "form": "05.63.19.25.85",
         "begin": 158,
         "end": 172,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Phone_Number"
       },
       {
         "form": "Mighty",
         "begin": 178,
         "end": 184,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Project"
       },
       {
         "form": "Casey",
@@ -35161,13 +35161,13 @@
         "form": "s",
         "begin": 191,
         "end": 192,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Project"
       },
       {
         "form": "Mighty",
         "begin": 193,
         "end": 199,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Project"
       },
       {
         "form": "Casey",
@@ -35179,19 +35179,19 @@
         "form": "'",
         "begin": 205,
         "end": 206,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Project"
       },
       {
         "form": "s",
         "begin": 206,
         "end": 207,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Project"
       },
       {
         "form": "45",
         "begin": 228,
         "end": 230,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Reference_CEDEX"
       },
       {
         "form": "avenue",
@@ -35215,13 +35215,13 @@
         "form": "Bât",
         "begin": 250,
         "end": 253,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Project"
       },
       {
         "form": "141",
         "begin": 254,
         "end": 257,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Reference_CEDEX"
       },
       {
         "form": "14000",
@@ -35341,7 +35341,7 @@
         "form": "'",
         "begin": 86,
         "end": 87,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "s",
@@ -35521,13 +35521,13 @@
         "form": "Développement",
         "begin": 18,
         "end": 31,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "Lotissement",
         "begin": 32,
         "end": 43,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "02 49 11 76 54",
@@ -35617,25 +35617,25 @@
         "form": "10",
         "begin": 57,
         "end": 59,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": ",",
         "begin": 59,
         "end": 60,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Rue",
         "begin": 61,
         "end": 64,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "Mathis-Pierre",
         "begin": 65,
         "end": 78,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Bianca",
@@ -35653,7 +35653,7 @@
         "form": "StrategyVenture.fr",
         "begin": 123,
         "end": 141,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Url"
       },
       {
         "form": "StrategyVenture.fr",
@@ -35755,7 +35755,7 @@
         "form": "43",
         "begin": 114,
         "end": 116,
-        "label_bonzaiboost": "Reference_CEDEX"
+        "label_bonzaiboost": "Location"
       }
     ]
   },
@@ -35839,19 +35839,19 @@
         "form": "du",
         "begin": 86,
         "end": 88,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Parc",
         "begin": 89,
         "end": 93,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "de",
         "begin": 94,
         "end": 96,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Brabois",
@@ -36013,25 +36013,25 @@
         "form": "Agnès",
         "begin": 4,
         "end": 9,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Gingras",
         "begin": 10,
         "end": 17,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Mr",
         "begin": 20,
         "end": 22,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": ".",
         "begin": 22,
         "end": 23,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "AG",
@@ -36067,7 +36067,7 @@
         "form": "et",
         "begin": 53,
         "end": 55,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "co-fondateur",
@@ -36085,7 +36085,7 @@
         "form": "'",
         "begin": 70,
         "end": 71,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Avivo",
@@ -36181,7 +36181,7 @@
         "form": "(0)7.62.87.81.76",
         "begin": 50,
         "end": 66,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Phone_Number"
       }
     ]
   },
@@ -36211,7 +36211,7 @@
         "form": "chargé",
         "begin": 24,
         "end": 30,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "d’affaires",
@@ -36331,25 +36331,25 @@
         "form": "36",
         "begin": 15,
         "end": 17,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Human"
       },
       {
         "form": ",",
         "begin": 17,
         "end": 18,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "boulevard",
         "begin": 19,
         "end": 28,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "de",
         "begin": 29,
         "end": 31,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "la",
@@ -36385,7 +36385,7 @@
         "form": "04 57 91 10 84",
         "begin": 90,
         "end": 104,
-        "label_bonzaiboost": "Phone_Number"
+        "label_bonzaiboost": "Reference_CEDEX"
       },
       {
         "form": "Paris",
@@ -36547,7 +36547,7 @@
         "form": "-",
         "begin": 79,
         "end": 80,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Audit",
@@ -36559,7 +36559,7 @@
         "form": "-",
         "begin": 87,
         "end": 88,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Conseil",
@@ -36649,13 +36649,13 @@
         "form": "Système",
         "begin": 50,
         "end": 57,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "&",
         "begin": 58,
         "end": 59,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Réseau",
@@ -36751,19 +36751,19 @@
         "form": "RI",
         "begin": 22,
         "end": 24,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "Pro",
         "begin": 25,
         "end": 28,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "Yard",
         "begin": 29,
         "end": 33,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "Services",
@@ -36823,7 +36823,7 @@
         "form": "&",
         "begin": 45,
         "end": 46,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Financière",
@@ -36835,19 +36835,19 @@
         "form": "Oklahoma",
         "begin": 60,
         "end": 68,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Tire",
         "begin": 69,
         "end": 73,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "&",
         "begin": 74,
         "end": 75,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Supply",
@@ -36877,7 +36877,7 @@
         "form": "&",
         "begin": 105,
         "end": 106,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Supply",
@@ -36907,7 +36907,7 @@
         "form": "&",
         "begin": 138,
         "end": 139,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Supply",
@@ -36967,25 +36967,25 @@
         "form": "'",
         "begin": 25,
         "end": 26,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Association",
         "begin": 26,
         "end": 37,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Function"
       },
       {
         "form": "des",
         "begin": 38,
         "end": 41,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Function"
       },
       {
         "form": "Bâtiments",
         "begin": 42,
         "end": 51,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Function"
       },
       {
         "form": "de",
@@ -37003,25 +37003,25 @@
         "form": "110",
         "begin": 63,
         "end": 66,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "quai",
         "begin": 67,
         "end": 71,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Louis",
         "begin": 72,
         "end": 77,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Blériot",
         "begin": 78,
         "end": 85,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "80100",
@@ -37489,7 +37489,7 @@
         "form": "03 20 04 16 26",
         "begin": 123,
         "end": 137,
-        "label_bonzaiboost": "Phone_Number"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "(0)6 50 86 89 22",
@@ -37675,13 +37675,13 @@
         "form": "92",
         "begin": 35,
         "end": 37,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Boulevard",
         "begin": 38,
         "end": 47,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Flandrin",
@@ -37807,37 +37807,37 @@
         "form": "123",
         "begin": 65,
         "end": 68,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": ",",
         "begin": 68,
         "end": 69,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Terrain",
         "begin": 70,
         "end": 77,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "de",
         "begin": 78,
         "end": 80,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "la",
         "begin": 81,
         "end": 83,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "rigole",
         "begin": 84,
         "end": 90,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "77500",
@@ -37849,13 +37849,13 @@
         "form": "Millau",
         "begin": 99,
         "end": 105,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "CEDEX",
         "begin": 106,
         "end": 111,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Reference_CEDEX"
       },
       {
         "form": "05.58.67.38.71",
@@ -37957,7 +37957,7 @@
         "form": ".",
         "begin": 17,
         "end": 18,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "Riggings",
@@ -37993,13 +37993,13 @@
         "form": ".",
         "begin": 43,
         "end": 44,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Riggings",
         "begin": 45,
         "end": 53,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Function"
       },
       {
         "form": "161",
@@ -38035,13 +38035,13 @@
         "form": "95",
         "begin": 97,
         "end": 99,
-        "label_bonzaiboost": "Reference_CEDEX"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "France",
         "begin": 102,
         "end": 108,
-        "label_bonzaiboost": "Reference_CEDEX"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "03.71.28.41.91",
@@ -38053,7 +38053,7 @@
         "form": "(0)4.69.39.62.35",
         "begin": 136,
         "end": 152,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Phone_Number"
       },
       {
         "form": "VisitDDS.fr",
@@ -38311,13 +38311,13 @@
         "form": "Professor",
         "begin": 28,
         "end": 37,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "Responsable",
         "begin": 38,
         "end": 49,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "du",
@@ -38329,13 +38329,13 @@
         "form": "département",
         "begin": 53,
         "end": 64,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "3LD",
         "begin": 65,
         "end": 68,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "03.69.33.71.38",
@@ -38413,7 +38413,7 @@
         "form": "Alès",
         "begin": 171,
         "end": 175,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "Cedex",
@@ -38425,19 +38425,19 @@
         "form": "Twitter",
         "begin": 188,
         "end": 195,
-        "label_bonzaiboost": "Phone_Number"
+        "label_bonzaiboost": "Email"
       },
       {
         "form": "Facebook",
         "begin": 198,
         "end": 206,
-        "label_bonzaiboost": "Social_Network"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Google",
         "begin": 209,
         "end": 215,
-        "label_bonzaiboost": "Social_Network"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Blog",
@@ -38449,7 +38449,7 @@
         "form": "YouTube",
         "begin": 225,
         "end": 232,
-        "label_bonzaiboost": "Social_Network"
+        "label_bonzaiboost": "Organization"
       }
     ]
   },
@@ -38491,13 +38491,13 @@
         "form": "MN",
         "begin": 29,
         "end": 31,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "2021",
         "begin": 32,
         "end": 36,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Phone_Number"
       }
     ]
   },
@@ -38617,7 +38617,7 @@
         "form": "Cedex",
         "begin": 177,
         "end": 182,
-        "label_bonzaiboost": "Reference_CEDEX"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "49",
@@ -38797,7 +38797,7 @@
         "form": "attendance",
         "begin": 65,
         "end": 75,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": ",",
@@ -38845,7 +38845,7 @@
         "form": "Builders",
         "begin": 51,
         "end": 59,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Square",
@@ -38941,7 +38941,7 @@
         "form": "Réseaux",
         "begin": 27,
         "end": 34,
-        "label_bonzaiboost": "Phone_Number"
+        "label_bonzaiboost": "Function"
       },
       {
         "form": "/",
@@ -38953,7 +38953,7 @@
         "form": "Télécoms",
         "begin": 37,
         "end": 45,
-        "label_bonzaiboost": "Phone_Number"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "Farrell",
@@ -39019,7 +39019,7 @@
         "form": "N",
         "begin": 8,
         "end": 9,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "'",
@@ -39055,31 +39055,31 @@
         "form": "Paul",
         "begin": 15,
         "end": 19,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "'",
         "begin": 19,
         "end": 20,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "s",
         "begin": 20,
         "end": 21,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Food",
         "begin": 22,
         "end": 26,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Mart",
         "begin": 27,
         "end": 31,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Directrice",
@@ -39109,7 +39109,7 @@
         "form": "(0)3.66.62.43.82",
         "begin": 71,
         "end": 87,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Phone_Number"
       },
       {
         "form": "TeleCDs.fr",
@@ -39343,7 +39343,7 @@
         "form": "Brannam",
         "begin": 77,
         "end": 84,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "J",
@@ -39511,7 +39511,7 @@
         "form": "(0)7.66.25.45.65",
         "begin": 46,
         "end": 62,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Phone_Number"
       }
     ]
   },
@@ -39547,37 +39547,37 @@
         "form": "Responsable",
         "begin": 29,
         "end": 40,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "du",
         "begin": 41,
         "end": 43,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Service",
         "begin": 44,
         "end": 51,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Informatique",
         "begin": 52,
         "end": 64,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Super",
         "begin": 67,
         "end": 72,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Place",
         "begin": 73,
         "end": 78,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "+33.06.55.15.25.48",
@@ -39607,19 +39607,19 @@
         "form": "de",
         "begin": 113,
         "end": 115,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "la",
         "begin": 116,
         "end": 118,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Victoire",
         "begin": 119,
         "end": 127,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "GarlandBrochu@armyspy.com",
@@ -39649,7 +39649,7 @@
         "form": "FRANCE",
         "begin": 179,
         "end": 185,
-        "label_bonzaiboost": "Reference_CEDEX"
+        "label_bonzaiboost": "Reference_CS"
       }
     ]
   },
@@ -39751,13 +39751,13 @@
         "form": "Super",
         "begin": 39,
         "end": 44,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "Market",
         "begin": 45,
         "end": 51,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "JacquesDupuy@jourrapide.com",
@@ -39811,7 +39811,7 @@
         "form": "07 83 27 87 86",
         "begin": 18,
         "end": 32,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Phone_Number"
       }
     ]
   },
@@ -39991,7 +39991,7 @@
         "form": "02 85 77 28 56",
         "begin": 118,
         "end": 132,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Phone_Number"
       },
       {
         "form": "04 71 14 53 57",
@@ -40285,19 +40285,19 @@
         "form": "Union",
         "begin": 36,
         "end": 41,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Function"
       },
       {
         "form": "Maritime",
         "begin": 42,
         "end": 50,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Function"
       },
       {
         "form": "Centenaire",
         "begin": 51,
         "end": 61,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Function"
       },
       {
         "form": "01 43 55 57 76",
@@ -40453,7 +40453,7 @@
         "form": "Co-responsable",
         "begin": 17,
         "end": 31,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "du",
@@ -40483,7 +40483,7 @@
         "form": "Données",
         "begin": 54,
         "end": 61,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Function"
       },
       {
         "form": "de",
@@ -40555,7 +40555,7 @@
         "form": "218",
         "begin": 128,
         "end": 131,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "-",
@@ -40579,7 +40579,7 @@
         "form": "(",
         "begin": 144,
         "end": 145,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "E",
@@ -40591,7 +40591,7 @@
         "form": ")",
         "begin": 146,
         "end": 147,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Phone_Number"
       },
       {
         "form": "Big",
@@ -40837,7 +40837,7 @@
         "form": "(0)4.67.75.70.25",
         "begin": 17,
         "end": 33,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Phone_Number"
       }
     ]
   },
@@ -40861,25 +40861,25 @@
         "form": "Responsable",
         "begin": 18,
         "end": 29,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "technique",
         "begin": 30,
         "end": 39,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Technical",
         "begin": 42,
         "end": 51,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Manager",
         "begin": 52,
         "end": 59,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "BriceChalifour@armyspy.com",
@@ -40897,7 +40897,7 @@
         "form": "(0)4 58 98 12 37",
         "begin": 129,
         "end": 145,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Phone_Number"
       },
       {
         "form": "05.54.30.43.15",
@@ -40915,7 +40915,7 @@
         "form": "PMFashions.fr",
         "begin": 180,
         "end": 193,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Url"
       },
       {
         "form": "PMFashions.fr",
@@ -40927,7 +40927,7 @@
         "form": "Espace",
         "begin": 210,
         "end": 216,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Géant",
@@ -40939,7 +40939,7 @@
         "form": "24",
         "begin": 223,
         "end": 225,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Phone_Number"
       },
       {
         "form": "avenue",
@@ -41071,7 +41071,7 @@
         "form": "Méricourt",
         "begin": 111,
         "end": 120,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "87100",
@@ -41323,13 +41323,13 @@
         "form": "Direction",
         "begin": 18,
         "end": 27,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Function"
       },
       {
         "form": "financière",
         "begin": 28,
         "end": 38,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Function"
       },
       {
         "form": "CFO",
@@ -41377,13 +41377,13 @@
         "form": "Espace",
         "begin": 123,
         "end": 129,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "Bocaud",
         "begin": 130,
         "end": 136,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "42",
@@ -41467,13 +41467,13 @@
         "form": ",",
         "begin": 22,
         "end": 23,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Av",
         "begin": 24,
         "end": 26,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": ".",
@@ -41809,13 +41809,13 @@
         "form": "6",
         "begin": 113,
         "end": 114,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Phone_Number"
       },
       {
         "form": "(0)4 76 70 87 80",
         "begin": 115,
         "end": 131,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Phone_Number"
       },
       {
         "form": "ThereseFranchet@dayrep.com",
@@ -42043,13 +42043,13 @@
         "form": "31",
         "begin": 85,
         "end": 87,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Allées",
         "begin": 88,
         "end": 94,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Jules",
@@ -42115,7 +42115,7 @@
         "form": "'",
         "begin": 36,
         "end": 37,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Information",
@@ -42133,13 +42133,13 @@
         "form": "&",
         "begin": 57,
         "end": 58,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Lewis",
         "begin": 59,
         "end": 64,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Newmark",
@@ -42151,19 +42151,19 @@
         "form": "&",
         "begin": 73,
         "end": 74,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Lewis",
         "begin": 75,
         "end": 80,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "21",
         "begin": 135,
         "end": 137,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": ",",
@@ -42187,7 +42187,7 @@
         "form": "l",
         "begin": 152,
         "end": 153,
-        "label_bonzaiboost": "Project"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "'",
@@ -42433,25 +42433,25 @@
         "form": "002",
         "begin": 180,
         "end": 183,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Campus",
         "begin": 184,
         "end": 190,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Function"
       },
       {
         "form": "Saint",
         "begin": 191,
         "end": 196,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Function"
       },
       {
         "form": "Priest",
         "begin": 197,
         "end": 203,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Function"
       },
       {
         "form": "Bâtiment",
@@ -42865,7 +42865,7 @@
         "form": "Gaulle",
         "begin": 57,
         "end": 63,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Project"
       },
       {
         "form": "(0)3.79.44.41.00",
@@ -43009,7 +43009,7 @@
         "form": "Cedex",
         "begin": 178,
         "end": 183,
-        "label_bonzaiboost": "Reference_CEDEX"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "18",
@@ -43045,13 +43045,13 @@
         "form": "Business",
         "begin": 16,
         "end": 24,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Manager",
         "begin": 25,
         "end": 32,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "ClaudeRocher@teleworm.us",
@@ -43063,7 +43063,7 @@
         "form": "+33 (0)1 39 83 95 97",
         "begin": 65,
         "end": 85,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Phone_Number"
       },
       {
         "form": "National",
@@ -43105,7 +43105,7 @@
         "form": "East",
         "begin": 165,
         "end": 169,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "6th",
@@ -43123,7 +43123,7 @@
         "form": "New",
         "begin": 194,
         "end": 197,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "York",
@@ -43177,7 +43177,7 @@
         "form": "GLARD",
         "begin": 44,
         "end": 49,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Function"
       },
       {
         "form": "+33 07 53 29 37 62",
@@ -43261,7 +43261,7 @@
         "form": "CLICHY",
         "begin": 204,
         "end": 210,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "47000",
@@ -43381,7 +43381,7 @@
         "form": ",",
         "begin": 83,
         "end": 84,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "ETAGE",
@@ -43423,49 +43423,49 @@
         "form": "S&W",
         "begin": 33,
         "end": 36,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Cafeteria",
         "begin": 37,
         "end": 46,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "S&W",
         "begin": 47,
         "end": 50,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Cafeteria",
         "begin": 51,
         "end": 60,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "123",
         "begin": 61,
         "end": 64,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Avenue",
         "begin": 65,
         "end": 71,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Albert",
         "begin": 72,
         "end": 78,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Thomas",
         "begin": 79,
         "end": 85,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "97450",
@@ -43477,7 +43477,7 @@
         "form": "Limoges",
         "begin": 92,
         "end": 99,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Cedex",
@@ -43489,13 +43489,13 @@
         "form": "+33.(0)1.78.94.09.88",
         "begin": 112,
         "end": 132,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Phone_Number"
       },
       {
         "form": "+33.(0)6.60.35.35.58",
         "begin": 143,
         "end": 163,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Phone_Number"
       },
       {
         "form": "+33 04 23 74 20 51",
@@ -43753,19 +43753,19 @@
         "form": "Chef",
         "begin": 18,
         "end": 22,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "de",
         "begin": 23,
         "end": 25,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "projet",
         "begin": 26,
         "end": 32,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Project",
@@ -43825,7 +43825,7 @@
         "form": "JobEconomics.fr",
         "begin": 113,
         "end": 128,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Human"
       },
       {
         "form": "Espace",
@@ -44281,7 +44281,7 @@
         "form": "Varden",
         "begin": 2,
         "end": 8,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "Lespérance",
@@ -44359,43 +44359,43 @@
         "form": "Earthworks",
         "begin": 185,
         "end": 195,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "Garden",
         "begin": 196,
         "end": 202,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "Kare",
         "begin": 203,
         "end": 207,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Function"
       },
       {
         "form": "Earthworks",
         "begin": 209,
         "end": 219,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "Garden",
         "begin": 220,
         "end": 226,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "Kare",
         "begin": 227,
         "end": 231,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "Ile",
         "begin": 232,
         "end": 235,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "de",
@@ -44407,7 +44407,7 @@
         "form": "France",
         "begin": 239,
         "end": 245,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "3",
@@ -44557,7 +44557,7 @@
         "form": "Eugène",
         "begin": 208,
         "end": 214,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Bataillon",
@@ -44773,13 +44773,13 @@
         "form": "de",
         "begin": 41,
         "end": 43,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Function"
       },
       {
         "form": "missions",
         "begin": 44,
         "end": 52,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "+33.05.56.03.31.01",
@@ -44815,13 +44815,13 @@
         "form": "Développeur",
         "begin": 16,
         "end": 27,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "web",
         "begin": 28,
         "end": 31,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "MelodieAchin@dayrep.com",
@@ -44857,7 +44857,7 @@
         "form": "ToyActivity.fr",
         "begin": 144,
         "end": 158,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Url"
       },
       {
         "form": "ToyActivity.fr",
@@ -44869,19 +44869,19 @@
         "form": "Espace",
         "begin": 176,
         "end": 182,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Géant",
         "begin": 183,
         "end": 188,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "24",
         "begin": 189,
         "end": 191,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Phone_Number"
       },
       {
         "form": "avenue",
@@ -45163,13 +45163,13 @@
         "form": "de",
         "begin": 48,
         "end": 50,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Function"
       },
       {
         "form": "l",
         "begin": 51,
         "end": 52,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "'",
@@ -45181,7 +45181,7 @@
         "form": "Erhd",
         "begin": 53,
         "end": 57,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Function"
       },
       {
         "form": "Raleigh",
@@ -45301,7 +45301,7 @@
         "form": "séparation",
         "begin": 61,
         "end": 71,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Function"
       },
       {
         "form": "invasive",
@@ -45433,7 +45433,7 @@
         "form": "En",
         "begin": 20,
         "end": 22,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Function"
       },
       {
         "form": "remplacement",
@@ -45871,13 +45871,13 @@
         "form": "'",
         "begin": 29,
         "end": 30,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "études",
         "begin": 30,
         "end": 36,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Function"
       },
       {
         "form": "apprenti",
@@ -46153,7 +46153,7 @@
         "form": "projet",
         "begin": 28,
         "end": 34,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "Piccolo",
@@ -46207,7 +46207,7 @@
         "form": "Méditerranée",
         "begin": 37,
         "end": 49,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Function"
       },
       {
         "form": "OrvaFremont@jourrapide.com",
@@ -46555,7 +46555,7 @@
         "form": "Chef",
         "begin": 18,
         "end": 22,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Function"
       },
       {
         "form": "de",
@@ -46747,7 +46747,7 @@
         "form": "+33 06 67 24 11 12",
         "begin": 16,
         "end": 34,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Phone_Number"
       },
       {
         "form": "BenoitDupuis@teleworm.us",
@@ -46783,7 +46783,7 @@
         "form": "/",
         "begin": 32,
         "end": 33,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "Commissaire",
@@ -46963,13 +46963,13 @@
         "form": "Target",
         "begin": 99,
         "end": 105,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Function"
       },
       {
         "form": "Source",
         "begin": 106,
         "end": 112,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Function"
       },
       {
         "form": "Target",
@@ -46981,7 +46981,7 @@
         "form": "Source",
         "begin": 120,
         "end": 126,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Function"
       },
       {
         "form": "Target",
@@ -47017,13 +47017,13 @@
         "form": "Blaise",
         "begin": 176,
         "end": 182,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Function"
       },
       {
         "form": "Pascal",
         "begin": 183,
         "end": 189,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Function"
       },
       {
         "form": "06500",
@@ -47047,13 +47047,13 @@
         "form": "FRANCE",
         "begin": 227,
         "end": 233,
-        "label_bonzaiboost": "Reference_CEDEX"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "FaceStress.fr",
         "begin": 234,
         "end": 247,
-        "label_bonzaiboost": "Url"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "FaceStress.fr",
@@ -47113,7 +47113,7 @@
         "form": ".",
         "begin": 35,
         "end": 36,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Montfaucon",
@@ -47227,7 +47227,7 @@
         "form": "'",
         "begin": 167,
         "end": 168,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "équipe",
@@ -47269,25 +47269,25 @@
         "form": "Cutting",
         "begin": 18,
         "end": 25,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": ",",
         "begin": 25,
         "end": 26,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "punching",
         "begin": 27,
         "end": 35,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Function"
       },
       {
         "form": ",",
         "begin": 35,
         "end": 36,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "and",
@@ -47947,19 +47947,19 @@
         "form": "34",
         "begin": 22,
         "end": 24,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Cours",
         "begin": 25,
         "end": 30,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Marechal-Joffre",
         "begin": 31,
         "end": 46,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Deuil-la-Barre",
@@ -48199,13 +48199,13 @@
         "form": "Gadbois",
         "begin": 7,
         "end": 14,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "Chargée",
         "begin": 15,
         "end": 22,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Function"
       },
       {
         "form": "d’Affaires",
@@ -48217,7 +48217,7 @@
         "form": "Innovation",
         "begin": 34,
         "end": 44,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "Great",
@@ -48421,7 +48421,7 @@
         "form": "Manager",
         "begin": 26,
         "end": 33,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Function"
       },
       {
         "form": "MarmionMonrency@teleworm.us",
@@ -48433,7 +48433,7 @@
         "form": "07 84 12 56 33",
         "begin": 71,
         "end": 85,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Phone_Number"
       }
     ]
   },
@@ -48679,13 +48679,13 @@
         "form": "&",
         "begin": 25,
         "end": 26,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Phone_Number"
       },
       {
         "form": "Co-Founder",
         "begin": 27,
         "end": 37,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "TheophileDescoteaux@dayrep.com",
@@ -48757,13 +48757,13 @@
         "form": "des",
         "begin": 61,
         "end": 64,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Picholines",
         "begin": 65,
         "end": 75,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "33000",
@@ -48859,13 +48859,13 @@
         "form": "des",
         "begin": 61,
         "end": 64,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Picholines",
         "begin": 65,
         "end": 75,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "31700",
@@ -49045,19 +49045,19 @@
         "form": "route",
         "begin": 129,
         "end": 134,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "de",
         "begin": 135,
         "end": 137,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Versailles",
         "begin": 138,
         "end": 148,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "LOUVECIENNES",
@@ -49099,7 +49099,7 @@
         "form": "ASSISTANT",
         "begin": 30,
         "end": 39,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "(",
@@ -49111,7 +49111,7 @@
         "form": "E",
         "begin": 40,
         "end": 41,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Function"
       },
       {
         "form": ")",
@@ -49201,13 +49201,13 @@
         "form": "Robert",
         "begin": 14,
         "end": 20,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Hall",
         "begin": 21,
         "end": 25,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Ile",
@@ -49231,7 +49231,7 @@
         "form": "(0)1 47 37 07 69",
         "begin": 49,
         "end": 65,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Phone_Number"
       },
       {
         "form": "FoulEssence.fr",
@@ -49321,25 +49321,25 @@
         "form": "Assistante",
         "begin": 12,
         "end": 22,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "administrative",
         "begin": 23,
         "end": 37,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "&",
         "begin": 38,
         "end": 39,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "commerciale",
         "begin": 40,
         "end": 51,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Parc",
@@ -49489,31 +49489,31 @@
         "form": "Rue",
         "begin": 2,
         "end": 5,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "De",
         "begin": 6,
         "end": 8,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "La",
         "begin": 9,
         "end": 11,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Vallée",
         "begin": 12,
         "end": 18,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Yart",
         "begin": 19,
         "end": 23,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "02100",
@@ -49645,7 +49645,7 @@
         "form": ",",
         "begin": 115,
         "end": 116,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Bat",
@@ -49657,7 +49657,7 @@
         "form": ".",
         "begin": 120,
         "end": 121,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "B1",
@@ -49765,7 +49765,7 @@
         "form": "Music",
         "begin": 109,
         "end": 114,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "+33 04 57 17 03 49",
@@ -49783,7 +49783,7 @@
         "form": "Music",
         "begin": 150,
         "end": 155,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "02 46 50 53 72",
@@ -49831,13 +49831,13 @@
         "form": "mission",
         "begin": 30,
         "end": 37,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Function"
       },
       {
         "form": "entreprises",
         "begin": 38,
         "end": 49,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Function"
       },
       {
         "form": "ClementineBarjavel@teleworm.us",
@@ -50155,13 +50155,13 @@
         "form": "8",
         "begin": 16,
         "end": 17,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "allée",
         "begin": 18,
         "end": 23,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "des",
@@ -50209,7 +50209,7 @@
         "form": "(0)7 53 20 56 10",
         "begin": 58,
         "end": 74,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Phone_Number"
       }
     ]
   },
@@ -50257,7 +50257,7 @@
         "form": "Sportswest",
         "begin": 99,
         "end": 109,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "374",
@@ -50341,7 +50341,7 @@
         "form": "'",
         "begin": 29,
         "end": 30,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "opération",
@@ -50509,7 +50509,7 @@
         "form": "07 89 41 59 59",
         "begin": 60,
         "end": 74,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Phone_Number"
       }
     ]
   },
@@ -50557,13 +50557,13 @@
         "form": "Bâtiment",
         "begin": 35,
         "end": 43,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Function"
       },
       {
         "form": "A4",
         "begin": 44,
         "end": 46,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Function"
       },
       {
         "form": "95600",
@@ -50641,25 +50641,25 @@
         "form": "1",
         "begin": 72,
         "end": 73,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Chemin",
         "begin": 74,
         "end": 80,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "de",
         "begin": 81,
         "end": 83,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "la",
         "begin": 84,
         "end": 86,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Sucrerie",
@@ -50731,7 +50731,7 @@
         "form": "06 38 64 53 55",
         "begin": 47,
         "end": 61,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Phone_Number"
       }
     ]
   },
@@ -51121,19 +51121,19 @@
         "form": "Assistante",
         "begin": 18,
         "end": 28,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "de",
         "begin": 29,
         "end": 31,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "copropriété",
         "begin": 32,
         "end": 43,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "19",
@@ -51379,7 +51379,7 @@
         "form": "DIRECTEUR",
         "begin": 16,
         "end": 25,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Function"
       },
       {
         "form": "+33.05.16.12.37.95",
@@ -51541,13 +51541,13 @@
         "form": "Sainte",
         "begin": 29,
         "end": 35,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Claire",
         "begin": 36,
         "end": 42,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "92350",
@@ -51901,7 +51901,7 @@
         "form": "(0)1.79.81.30.83",
         "begin": 58,
         "end": 74,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Phone_Number"
       }
     ]
   },
@@ -52045,7 +52045,7 @@
         "form": "clients",
         "begin": 42,
         "end": 49,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Function"
       },
       {
         "form": "RomainCailot@dayrep.com",
@@ -52291,7 +52291,7 @@
         "form": "(0)5 32 54 32 49",
         "begin": 55,
         "end": 71,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Phone_Number"
       },
       {
         "form": "+33 05 62 38 24 76",
@@ -52315,19 +52315,19 @@
         "form": "5",
         "begin": 109,
         "end": 110,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Côte",
         "begin": 111,
         "end": 115,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "de",
         "begin": 116,
         "end": 118,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Dainville",
@@ -52507,7 +52507,7 @@
         "form": "06 46 60 32 48",
         "begin": 11,
         "end": 25,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Phone_Number"
       }
     ]
   },
@@ -52645,13 +52645,13 @@
         "form": "Collaboratrice",
         "begin": 30,
         "end": 44,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "de",
         "begin": 45,
         "end": 47,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "Maître",
@@ -52663,13 +52663,13 @@
         "form": "Renaud",
         "begin": 55,
         "end": 61,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "PITOU",
         "begin": 62,
         "end": 67,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "11",
@@ -52735,19 +52735,19 @@
         "form": "de",
         "begin": 24,
         "end": 26,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "la",
         "begin": 27,
         "end": 29,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "Clientèle",
         "begin": 30,
         "end": 39,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "et",
@@ -52849,7 +52849,7 @@
         "form": "Ile-de-France",
         "begin": 38,
         "end": 51,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Happy",
@@ -52873,7 +52873,7 @@
         "form": "D32",
         "begin": 69,
         "end": 72,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Function"
       },
       {
         "form": "24/30",
@@ -52903,7 +52903,7 @@
         "form": "Langlois",
         "begin": 95,
         "end": 103,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "92800",
@@ -53167,7 +53167,7 @@
         "form": "Miller",
         "begin": 16,
         "end": 22,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "&",
@@ -53353,19 +53353,19 @@
         "form": "Bâtiment",
         "begin": 24,
         "end": 32,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Function"
       },
       {
         "form": "Jean",
         "begin": 33,
         "end": 37,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Function"
       },
       {
         "form": "Braconnier",
         "begin": 38,
         "end": 48,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Function"
       },
       {
         "form": "21",
@@ -53425,13 +53425,13 @@
         "form": ":",
         "begin": 107,
         "end": 108,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Reference_CEDEX"
       },
       {
         "form": "245",
         "begin": 109,
         "end": 112,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Phone_Number"
       },
       {
         "form": "04 23 70 05 43",
@@ -53869,19 +53869,19 @@
         "form": "Montpellier",
         "begin": 44,
         "end": 55,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "Méditerranée",
         "begin": 56,
         "end": 68,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "Métropole",
         "begin": 69,
         "end": 78,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "06.55.49.08.72",
@@ -53917,7 +53917,7 @@
         "form": "@Big_Wheel",
         "begin": 181,
         "end": 191,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Email"
       }
     ]
   },
@@ -53947,7 +53947,7 @@
         "form": "07.61.36.05.96",
         "begin": 37,
         "end": 51,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Phone_Number"
       },
       {
         "form": "Responsable",
@@ -53983,7 +53983,7 @@
         "form": "Systèmes",
         "begin": 83,
         "end": 91,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "d",
@@ -54019,13 +54019,13 @@
         "form": "&",
         "begin": 129,
         "end": 130,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Réseau",
         "begin": 131,
         "end": 137,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Hills",
@@ -54139,7 +54139,7 @@
         "form": "43",
         "begin": 230,
         "end": 232,
-        "label_bonzaiboost": "Reference_CEDEX"
+        "label_bonzaiboost": "Location"
       }
     ]
   },
@@ -54349,7 +54349,7 @@
         "form": "Warehouse",
         "begin": 51,
         "end": 60,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Function"
       },
       {
         "form": "Chargée",
@@ -54445,7 +54445,7 @@
         "form": "SAY",
         "begin": 250,
         "end": 253,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "57600",
@@ -54469,13 +54469,13 @@
         "form": "Helping",
         "begin": 7,
         "end": 14,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Hand",
         "begin": 15,
         "end": 19,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "3",
@@ -54553,7 +54553,7 @@
         "form": "05 54 45 05 81",
         "begin": 92,
         "end": 106,
-        "label_bonzaiboost": "Phone_Number"
+        "label_bonzaiboost": "Reference_CEDEX"
       },
       {
         "form": "LightningPatrol.fr",
@@ -55147,31 +55147,31 @@
         "form": "1",
         "begin": 247,
         "end": 248,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Appold",
         "begin": 249,
         "end": 255,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Street",
         "begin": 256,
         "end": 262,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "London",
         "begin": 263,
         "end": 269,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "EC2A",
         "begin": 270,
         "end": 274,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "2UU",
@@ -55219,7 +55219,7 @@
         "form": "TownRank.fr",
         "begin": 329,
         "end": 340,
-        "label_bonzaiboost": "Url"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "TownRank.fr",
@@ -55561,7 +55561,7 @@
         "form": "FaceBook",
         "begin": 157,
         "end": 165,
-        "label_bonzaiboost": "Social_Network"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "LinkedIN",
@@ -55645,25 +55645,25 @@
         "form": "avenue",
         "begin": 128,
         "end": 134,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "du",
         "begin": 135,
         "end": 137,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "Président",
         "begin": 138,
         "end": 147,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "Wilson",
         "begin": 148,
         "end": 154,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "92200",
@@ -55675,7 +55675,7 @@
         "form": "Cachan",
         "begin": 161,
         "end": 167,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "CEDEX",
@@ -55723,7 +55723,7 @@
         "form": "Développement",
         "begin": 39,
         "end": 52,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "Stratégique",
@@ -55843,7 +55843,7 @@
         "form": "Eugène",
         "begin": 96,
         "end": 102,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Bataillon",
@@ -56161,7 +56161,7 @@
         "form": "Lafayette",
         "begin": 64,
         "end": 73,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Function"
       },
       {
         "form": "Radio",
@@ -56173,7 +56173,7 @@
         "form": "Lafayette",
         "begin": 82,
         "end": 91,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Function"
       },
       {
         "form": "Radio",
@@ -56185,7 +56185,7 @@
         "form": "Lafayette",
         "begin": 98,
         "end": 107,
-        "label_bonzaiboost": "Organization"
+        "label_bonzaiboost": "Function"
       },
       {
         "form": "Radio",
@@ -56257,7 +56257,7 @@
         "form": "-",
         "begin": 167,
         "end": 168,
-        "label_bonzaiboost": "Project"
+        "label_bonzaiboost": "Reference_CEDEX"
       },
       {
         "form": "B",
@@ -56317,25 +56317,25 @@
         "form": "Directeur",
         "begin": 20,
         "end": 29,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "d",
         "begin": 30,
         "end": 31,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "'",
         "begin": 31,
         "end": 32,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "exploitation",
         "begin": 32,
         "end": 44,
-        "label_bonzaiboost": "Human"
+        "label_bonzaiboost": "Location"
       },
       {
         "form": "Responsable",
@@ -56401,7 +56401,7 @@
         "form": "Bocaud",
         "begin": 165,
         "end": 171,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "42",
@@ -56755,13 +56755,13 @@
         "form": "Big",
         "begin": 136,
         "end": 139,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "Wheel",
         "begin": 140,
         "end": 145,
-        "label_bonzaiboost": "Function"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "Big",
@@ -56803,19 +56803,19 @@
         "form": "Cedex",
         "begin": 198,
         "end": 203,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Reference_CEDEX"
       },
       {
         "form": "02",
         "begin": 204,
         "end": 206,
-        "label_bonzaiboost": "Reference_CEDEX"
+        "label_bonzaiboost": "Organization"
       },
       {
         "form": "France",
         "begin": 207,
         "end": 213,
-        "label_bonzaiboost": "Location"
+        "label_bonzaiboost": "Organization"
       }
     ]
   },

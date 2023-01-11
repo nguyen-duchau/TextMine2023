@@ -52,10 +52,11 @@ REGEX_M = {
     'postcode': r'\d{5}',
     'caps': r'^[A-Z]',
     'allcaps': r'^[A-Z]+$',
+    'nonword': r'^[\d\W]+$',
     'social': r'Facebook|Linkedin|Instagram|Twitter|Google|Youtube'
 }
 REGEX_T = {
-    # 'suffix_': r'.?.?.?$'
+    'suffix_': r'.?.?.?$'
 }
 TEXT_PARAMS = {'expert_length': 1,
                'expert_type': 'ngram',
@@ -91,6 +92,8 @@ def create_names(filename):
 
 
 def process_features(token, text):
+    # text = text.replace('\n', ' ')
+
     begin = token['begin']
     end = token['end']
 
