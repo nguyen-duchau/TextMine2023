@@ -51,7 +51,7 @@ if __name__ == '__main__':
             else:
                 if len(res['text'].split('\n')) == 1 and bert_j['label_bert'] != 'O': # Si le texte ne contient pas de retour à la ligne, laisser BERT prendre la décision (excluant 'O')
                     token['label'] = bert_j['label_bert']
-                if crf_j['label'] != bonzai_j['label_bonzaiboost'] or crf_j['form'] != bert_j['label_bert'] or bonzai_j['label_bonzaiboost'] != bert_j['label_bert']:
+                if crf_j['label'] != bonzai_j['label_bonzaiboost'] or crf_j['form'] != bert_j['label_bert'] or bonzai_j['label_bonzaiboost'] != bert_j.get('label_bert', 'O'):
                     # Compte le nombre de fois où au moins un des réseaux n'est pas d'accord avec les autres
                     conflicts += 1
 
